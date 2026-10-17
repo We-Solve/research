@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to contribute
+    url: https://we-solve.github.io/contribute/
+    about: What a good attempt, review or problem includes.
+  - name: Corrections and takedown
+    url: https://we-solve.github.io/policies/takedown/
+    about: Report inaccurate attribution, rights concerns or private information.

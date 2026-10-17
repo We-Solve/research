@@ -18,4 +18,4 @@ Statements and contributions can contain errors. An attempted solution, includin
 
 Licences and author credits are recorded with each problem and contribution; preserve them when reusing material. Links to third-party sources do not grant additional rights.
 
-Submissions are not open yet. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Submissions are open through the issue forms. See [CONTRIBUTING.md](CONTRIBUTING.md).

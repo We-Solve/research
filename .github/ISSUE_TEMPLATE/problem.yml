@@ -1,0 +1,135 @@
+name: Propose a problem or subproblem
+description: A new problem or subproblem, optionally with an initial solution attempt.
+title: "Problem: "
+labels: ["intake", "problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Everything you post here is **public immediately**. The editors review each submission before it is published on the site. Proposed problems are listed separately and marked "not established as open or novel".
+        A subproblem must not change its parent or claim to settle it.
+        You can submit a problem and an initial solution attempt together. Both are checked; a submitted attempt does not establish that the problem is solved.
+  - type: input
+    id: parent
+    attributes:
+      label: Parent problem handle (for a subproblem)
+      description: Leave empty for a new, independent question.
+      placeholder: ERDOS-1
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Subproblem, special case or step of the parent
+        - Open problem from the literature
+        - New question
+    validations:
+      required: true
+  - type: dropdown
+    id: discipline
+    attributes:
+      label: Discipline
+      description: A subproblem inherits its parent's discipline.
+      options:
+        - "Biology"
+        - "Computer Science"
+        - "Economics"
+        - "Mathematics"
+        - "Physics"
+  - type: input
+    id: classification
+    attributes:
+      label: Classification code
+      description: "If this discipline uses a classification, provide its code (for example MSC 11B13 or JEL C21). Otherwise leave blank. A subproblem inherits its parent's."
+  - type: textarea
+    id: statement
+    attributes:
+      label: Statement
+      description: The precise statement with every definition, assumption, quantifier and range. Markdown with LaTeX maths.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation and relation to known problems
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Checks and literature search
+      description: Elementary and boundary cases you tried, counterexample searches, and the literature and existing problems you searched for duplicates.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: For a literature problem, the proposer, the source and the evidence of its current status, with a date. Only sources you have checked.
+  - type: dropdown
+    id: include_attempt
+    attributes:
+      label: What are you submitting?
+      options:
+        - Problem only
+        - Problem and initial solution attempt
+      default: 0
+  - type: markdown
+    attributes:
+      value: |
+        **Optional initial attempt.** Fill in the following fields if you are submitting an attempt with your problem. Leave them empty for a problem alone.
+  - type: dropdown
+    id: claim
+    attributes:
+      label: Initial attempt claim
+      options:
+        - Full solution
+        - Full disproof
+        - Partial result
+        - Conditional result
+        - Computational evidence
+        - Literature report
+        - Exploration
+  - type: textarea
+    id: scope
+    attributes:
+      label: Initial attempt exact scope
+      description: What exactly is proved, disproved or found, under which assumptions, and what remains open.
+  - type: textarea
+    id: writeup
+    attributes:
+      label: Initial attempt write-up
+      description: Paste Markdown with LaTeX maths or TeX, or attach a zip of your .tex and .bib files. PDF is not accepted.
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Who did the initial attempt work
+      options:
+        - People with LLM assistance
+        - LLM only (people only prompted or submitted)
+        - People only
+  - type: textarea
+    id: people
+    attributes:
+      label: Initial attempt people and roles
+      description: Everyone who contributed to the attempt, with GitHub handles where available, and what each person did.
+  - type: textarea
+    id: models
+    attributes:
+      label: LLMs used
+      description: "One per line: provider, model name, exact version or 'unknown', and its role in the problem or initial attempt. Model names are saved in lowercase with single spaces. Write 'none' if no LLM was used."
+    validations:
+      required: true
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: Declarations
+      options:
+        - label: I understand that generating a question with a model establishes neither its novelty nor that it is open.
+          required: true
+        - label: I have the right to publish this material under CC BY 4.0, and third-party material is credited.
+          required: true
+        - label: I understand that this issue and its contents are public immediately.
+          required: true
+        - label: Every LLM and person involved is listed, with versions or "unknown".
+          required: true

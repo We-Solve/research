@@ -1,0 +1,88 @@
+name: Submit an attempt
+description: A solution, partial result, counterexample, computation or exploration for one problem.
+title: "Attempt: "
+labels: ["intake", "attempt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Everything you post here is **public immediately**. The editors review each submission before it is published on the site.
+        Paste your write-up below (Markdown with LaTeX maths, or TeX), or attach a zip of your `.tex` and `.bib` files and figures. PDF is not accepted.
+  - type: input
+    id: problem
+    attributes:
+      label: Problem handle
+      description: "For example ERDOS-1 or ECON-C21-57. It is shown on the problem page."
+      placeholder: ERDOS-1
+    validations:
+      required: true
+  - type: dropdown
+    id: claim
+    attributes:
+      label: Claim
+      description: A special case, a reformulation or a conditional result is not a full solution.
+      options:
+        - Full solution
+        - Full disproof
+        - Partial result
+        - Conditional result
+        - Computational evidence
+        - Literature report
+        - Exploration
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Exact scope
+      description: What exactly is proved, disproved or found, under which assumptions, and what remains open.
+    validations:
+      required: true
+  - type: textarea
+    id: writeup
+    attributes:
+      label: Write-up
+      description: Markdown with LaTeX maths, or TeX. You can also attach files here.
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Who did the work
+      options:
+        - People with LLM assistance
+        - LLM only (people only prompted or submitted)
+        - People only
+    validations:
+      required: true
+  - type: textarea
+    id: models
+    attributes:
+      label: LLMs used
+      description: "One per line: provider, model name, exact version or 'unknown', and its role (for example: draft, proof search, computation, editing). Model names are saved in lowercase with single spaces. Write 'none' if no LLM was used."
+      placeholder: "OpenAI, gpt-5, unknown, generated the draft"
+    validations:
+      required: true
+  - type: textarea
+    id: people
+    attributes:
+      label: People and roles
+      description: Everyone who contributed, with GitHub handles where they have them, and what each person did.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Only references you have checked.
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: Declarations
+      options:
+        - label: I have the right to publish this material under CC BY 4.0 (software Apache-2.0), and third-party material is credited.
+          required: true
+        - label: I understand that this issue and its contents are public immediately.
+          required: true
+        - label: Every LLM and person involved is listed, with versions or "unknown".
+          required: true
