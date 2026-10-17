@@ -5,7 +5,7 @@ labels: ["intake", "review"]
 body:
   - type: markdown
     attributes:
-      value: Everything you post here is **public immediately**. The editors review each submission before it is published on the site. Reviews are shown by finding and scope, never as votes.
+      value: Everything you post here is **public immediately**. The editors review each submission before it is published on the site. Reviews are shown by finding and scope, never as votes. Each field shows an example in grey.
   - type: input
     id: contribution
     attributes:
@@ -35,6 +35,7 @@ body:
     attributes:
       label: What you checked
       description: Which sections, lemmas or computations you checked, and how.
+      placeholder: Sections 2 and 3 line by line, including Lemma 4; reran the computation in Appendix B with the authors' script.
     validations:
       required: true
   - type: textarea
@@ -42,15 +43,50 @@ body:
     attributes:
       label: Evidence
       description: The error, gap or confirmation, with exact locations. Markdown with LaTeX maths.
+      placeholder: "Lemma 4, line 3: the bound $a_n \\le 2^n$ fails for $n = 5$, where $a_5 = 40$. The proof of Theorem 1 uses it in Step 2."
+    validations:
+      required: true
+  - type: dropdown
+    id: llms
+    attributes:
+      label: LLMs used
+      description: Select every LLM involved, or "None". If yours is not listed, select "Other" and name it in the next field.
+      multiple: true
+      options:
+        - None (no LLM used)
+        - OpenAI GPT 6.1 Sol
+        - OpenAI GPT 6 Astra Ultra
+        - OpenAI GPT 6 Astra Pro
+        - OpenAI GPT 6 Astra
+        - OpenAI GPT Pro 5.4
+        - OpenAI GPT Pro 5.2
+        - OpenAI GPT 5.2
+        - OpenAI Codex 5.2
+        - Anthropic Claude Fable 5.1
+        - Anthropic Claude Opus 5.5
+        - Anthropic Claude Sonnet 5.5
+        - Anthropic Claude Haiku 5.5
+        - Anthropic Claude Opus 4.8
+        - Anthropic Claude Opus 4.5
+        - Other (named below)
     validations:
       required: true
   - type: textarea
-    id: models
+    id: other_llms
     attributes:
-      label: LLMs used
-      description: "One per line: provider, model name, exact version or 'unknown', and its role. Model names are saved in lowercase with single spaces. Write 'none' if no LLM was used."
-    validations:
-      required: true
+      label: Other LLMs
+      description: Only if you selected "Other". One per line, provider and model name, separated by a comma.
+      placeholder: |-
+        Google, gemini 3 pro
+        DeepSeek, r2
+  - type: textarea
+    id: llm_details
+    attributes:
+      label: LLM versions, settings and roles
+      description: 'One line per LLM: the model name, then "version", "reasoning" and "role", separated by "|". Write "unknown" for anything you do not know.'
+      placeholder: |-
+        GPT 6.1 Sol | version: unknown | reasoning: max | role: generated the proof
+        Claude Opus 5.5 | version: unknown | reasoning: high | role: checked the proof
   - type: textarea
     id: conflicts
     attributes:

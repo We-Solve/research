@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Everything you post here is **public immediately**. The editors review each submission before it is published on the site.
-        Paste your write-up below (Markdown with LaTeX maths, or TeX), or attach a zip of your `.tex` and `.bib` files and figures. PDF is not accepted.
+        Each field shows an example in grey. Paste your write-up below (Markdown with LaTeX maths, or TeX), or attach a zip of your `.tex` and `.bib` files and figures. PDF is not accepted.
   - type: input
     id: problem
     attributes:
@@ -36,6 +36,9 @@ body:
     attributes:
       label: Exact scope
       description: What exactly is proved, disproved or found, under which assumptions, and what remains open.
+      placeholder: |-
+        Proves the statement for every prime n (Theorem 1) and checks all n up to 10^6 by computer (Section 3).
+        The general case remains open. No unproved assumptions are used.
     validations:
       required: true
   - type: textarea
@@ -43,6 +46,15 @@ body:
     attributes:
       label: Write-up
       description: Markdown with LaTeX maths, or TeX. You can also attach files here.
+      placeholder: |-
+        ## Result
+        **Theorem 1.** For every prime $p$, ...
+
+        ## Proof
+        ...
+
+        ## What remains open
+        ...
     validations:
       required: true
   - type: dropdown
@@ -55,26 +67,65 @@ body:
         - People only
     validations:
       required: true
-  - type: textarea
-    id: models
+  - type: dropdown
+    id: llms
     attributes:
       label: LLMs used
-      description: "One per line: provider, model name, exact version or 'unknown', and its role (for example: draft, proof search, computation, editing). Model names are saved in lowercase with single spaces. Write 'none' if no LLM was used."
-      placeholder: "OpenAI, gpt-5, unknown, generated the draft"
+      description: Select every LLM involved, or "None". If yours is not listed, select "Other" and name it in the next field.
+      multiple: true
+      options:
+        - None (no LLM used)
+        - OpenAI GPT 6.1 Sol
+        - OpenAI GPT 6 Astra Ultra
+        - OpenAI GPT 6 Astra Pro
+        - OpenAI GPT 6 Astra
+        - OpenAI GPT Pro 5.4
+        - OpenAI GPT Pro 5.2
+        - OpenAI GPT 5.2
+        - OpenAI Codex 5.2
+        - Anthropic Claude Fable 5.1
+        - Anthropic Claude Opus 5.5
+        - Anthropic Claude Sonnet 5.5
+        - Anthropic Claude Haiku 5.5
+        - Anthropic Claude Opus 4.8
+        - Anthropic Claude Opus 4.5
+        - Other (named below)
     validations:
       required: true
+  - type: textarea
+    id: other_llms
+    attributes:
+      label: Other LLMs
+      description: Only if you selected "Other". One per line, provider and model name, separated by a comma.
+      placeholder: |-
+        Google, gemini 3 pro
+        DeepSeek, r2
+  - type: textarea
+    id: llm_details
+    attributes:
+      label: LLM versions, settings and roles
+      description: 'One line per LLM: the model name, then "version", "reasoning" and "role", separated by "|". Write "unknown" for anything you do not know.'
+      placeholder: |-
+        GPT 6.1 Sol | version: unknown | reasoning: max | role: generated the proof
+        Claude Opus 5.5 | version: unknown | reasoning: high | role: checked the proof
   - type: textarea
     id: people
     attributes:
       label: People and roles
-      description: Everyone who contributed, with GitHub handles where they have them, and what each person did.
+      description: Everyone who contributed, one per line, with GitHub handles where they have them, and what each person did.
+      placeholder: |-
+        Ada Lovelace (@ada): proposed the approach and checked the proof
+        @babbage: prompted the model and submitted
     validations:
       required: true
   - type: textarea
     id: references
     attributes:
       label: References
-      description: Only references you have checked.
+      description: Only references you have checked, one per line, with what you used from each.
+      placeholder: |-
+        P. Erdős, On sets of distances of n points, Amer. Math. Monthly 53 (1946), 248–250. (Used: the construction in Section 2.)
+        arXiv:2609.04113, Theorem 4.10. (Used: the regret bound.)
   - type: checkboxes
     id: declarations
     attributes:

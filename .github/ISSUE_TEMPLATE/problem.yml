@@ -9,6 +9,7 @@ body:
         Everything you post here is **public immediately**. The editors review each submission before it is published on the site. Proposed problems are listed separately and marked "not established as open or novel".
         A subproblem must not change its parent or claim to settle it.
         You can submit a problem and an initial solution attempt together. Both are checked; a submitted attempt does not establish that the problem is solved.
+        Each field shows an example in grey.
   - type: input
     id: parent
     attributes:
@@ -41,17 +42,20 @@ body:
     attributes:
       label: Classification code
       description: "If this discipline uses a classification, provide its code (for example MSC 11B13 or JEL C21). Otherwise leave blank. A subproblem inherits its parent's."
+      placeholder: MSC 11B13
   - type: textarea
     id: statement
     attributes:
       label: Statement
       description: The precise statement with every definition, assumption, quantifier and range. Markdown with LaTeX maths.
+      placeholder: "Let $r_3(N)$ be the largest size of a subset of $\\{1, \\dots, N\\}$ with no three-term arithmetic progression. Is $r_3(N) \\le N / (\\log N)^{2}$ for all large $N$?"
     validations:
       required: true
   - type: textarea
     id: motivation
     attributes:
       label: Motivation and relation to known problems
+      placeholder: It sharpens the known bound of Kelley and Meka and is a special case of ERDOS-3. A positive answer would imply ...
     validations:
       required: true
   - type: textarea
@@ -59,6 +63,7 @@ body:
     attributes:
       label: Checks and literature search
       description: Elementary and boundary cases you tried, counterexample searches, and the literature and existing problems you searched for duplicates.
+      placeholder: Checked N up to 200 by exhaustive search. Searched we-solve, erdosproblems.com, MathOverflow and Google Scholar for "three-term progression bound"; found no duplicate.
     validations:
       required: true
   - type: textarea
@@ -66,6 +71,7 @@ body:
     attributes:
       label: Sources
       description: For a literature problem, the proposer, the source and the evidence of its current status, with a date. Only sources you have checked.
+      placeholder: Posed by P. Erdős in Some problems in number theory (1961), Problem 4. Listed as open in the 2025 survey by ..., checked on 17 October 2026.
   - type: dropdown
     id: include_attempt
     attributes:
@@ -95,11 +101,18 @@ body:
     attributes:
       label: Initial attempt exact scope
       description: What exactly is proved, disproved or found, under which assumptions, and what remains open.
+      placeholder: Proves the statement for every prime N; the general case remains open.
   - type: textarea
     id: writeup
     attributes:
       label: Initial attempt write-up
       description: Paste Markdown with LaTeX maths or TeX, or attach a zip of your .tex and .bib files. PDF is not accepted.
+      placeholder: |-
+        ## Result
+        **Theorem 1.** ...
+
+        ## Proof
+        ...
   - type: dropdown
     id: mode
     attributes:
@@ -113,13 +126,50 @@ body:
     attributes:
       label: Initial attempt people and roles
       description: Everyone who contributed to the attempt, with GitHub handles where available, and what each person did.
-  - type: textarea
-    id: models
+      placeholder: |-
+        Ada Lovelace (@ada): proposed the approach and checked the proof
+        @babbage: prompted the model and submitted
+  - type: dropdown
+    id: llms
     attributes:
       label: LLMs used
-      description: "One per line: provider, model name, exact version or 'unknown', and its role in the problem or initial attempt. Model names are saved in lowercase with single spaces. Write 'none' if no LLM was used."
+      description: Select every LLM involved, or "None". If yours is not listed, select "Other" and name it in the next field.
+      multiple: true
+      options:
+        - None (no LLM used)
+        - OpenAI GPT 6.1 Sol
+        - OpenAI GPT 6 Astra Ultra
+        - OpenAI GPT 6 Astra Pro
+        - OpenAI GPT 6 Astra
+        - OpenAI GPT Pro 5.4
+        - OpenAI GPT Pro 5.2
+        - OpenAI GPT 5.2
+        - OpenAI Codex 5.2
+        - Anthropic Claude Fable 5.1
+        - Anthropic Claude Opus 5.5
+        - Anthropic Claude Sonnet 5.5
+        - Anthropic Claude Haiku 5.5
+        - Anthropic Claude Opus 4.8
+        - Anthropic Claude Opus 4.5
+        - Other (named below)
     validations:
       required: true
+  - type: textarea
+    id: other_llms
+    attributes:
+      label: Other LLMs
+      description: Only if you selected "Other". One per line, provider and model name, separated by a comma.
+      placeholder: |-
+        Google, gemini 3 pro
+        DeepSeek, r2
+  - type: textarea
+    id: llm_details
+    attributes:
+      label: LLM versions, settings and roles
+      description: 'One line per LLM: the model name, then "version", "reasoning" and "role", separated by "|". Write "unknown" for anything you do not know.'
+      placeholder: |-
+        GPT 6.1 Sol | version: unknown | reasoning: max | role: generated the proof
+        Claude Opus 5.5 | version: unknown | reasoning: high | role: checked the proof
   - type: checkboxes
     id: declarations
     attributes:
