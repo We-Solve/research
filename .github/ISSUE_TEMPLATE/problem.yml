@@ -10,6 +10,17 @@ body:
         A subproblem must not change its parent or claim to settle it.
         You can submit a problem and an initial solution attempt together. Both are checked; a submitted attempt does not establish that the problem is solved.
         Each field shows an example in grey.
+  - type: markdown
+    attributes:
+      value: |
+        The archive includes some of the hardest research problems. Submit only significant contributions to challenging problems. Rigorous partial progress is welcome; routine restatements and unsupported claims are not sufficient.
+
+        Acceptance of LLM-assisted work requires models with demonstrated mathematical capability through the following routes. Examples with demonstrated mathematical success are Astra Pro, Sol 6.1 at High or above, Astra 6 at High or above, Fable, Opus 5.5, Argon, and equivalent future models. Other models qualify through a previously demonstrated multi-agent architecture or a correctness check by a demonstrated model; document the architecture or reviewer and its supporting evidence. People-only contributions are welcome.
+
+        Submit mathematical exposition in Markdown or TeX, with .bib files and figures as needed. No PDFs or direct code, including Lean or Python, in issue text, attachments or repository submissions. Host your own code on GitHub or Hugging Face and link to a pinned version.
+
+        Select every model first, then complete the separate required thinking level / time dropdown and per-model details. Record actual versions, thinking settings, time budgets and roles; use unknown when unavailable. Never infer or invent a thinking setting from a model name.
+
   - type: input
     id: parent
     attributes:
@@ -106,7 +117,7 @@ body:
     id: writeup
     attributes:
       label: Initial attempt write-up
-      description: Paste Markdown with LaTeX maths or TeX, or attach a zip of your .tex and .bib files. PDF is not accepted.
+      description: Paste Markdown with LaTeX maths or TeX, or attach a zip of your .tex and .bib files. No PDFs or direct code; link to your own code on GitHub or Hugging Face.
       placeholder: |-
         ## Result
         **Theorem 1.** ...
@@ -129,47 +140,68 @@ body:
       placeholder: |-
         Ada Lovelace (@ada): proposed the approach and checked the proof
         @babbage: prompted the model and submitted
+  - type: markdown
+    attributes:
+      value: |
+        **Model disclosure for every submission.** Complete these fields for the proposed problem and any initial attempt, including when you submit a problem alone.
   - type: dropdown
     id: llms
     attributes:
-      label: LLMs used
-      description: Select every LLM involved, or "None". If yours is not listed, select "Other" and name it in the next field.
+      label: Models used
+      description: Select every model involved, or None for people-only work. Use Other for equivalent future models and models meeting the documented architecture or verification requirement.
       multiple: true
       options:
         - None (no LLM used)
-        - OpenAI GPT 6.1 Sol
-        - OpenAI GPT 6 Astra Ultra
         - OpenAI GPT 6 Astra Pro
+        - OpenAI GPT 6.1 Sol
         - OpenAI GPT 6 Astra
-        - OpenAI GPT Pro 5.4
-        - OpenAI GPT Pro 5.2
-        - OpenAI GPT 5.2
-        - OpenAI Codex 5.2
         - Anthropic Claude Fable 5.1
         - Anthropic Claude Opus 5.5
-        - Anthropic Claude Sonnet 5.5
-        - Anthropic Claude Haiku 5.5
-        - Anthropic Claude Opus 4.8
-        - Anthropic Claude Opus 4.5
+        - Argon
         - Other (named below)
+    validations:
+      required: true
+  - type: dropdown
+    id: thinking
+    attributes:
+      label: Thinking level / time
+      description: Select the actual setting used. Sol 6.1 and Astra 6 examples require High or above. Use Mixed for different settings, and give actual settings or time budgets per model below. Never guess a setting that was not exposed.
+      options:
+        - High
+        - Extra high
+        - Max
+        - Ultra
+        - Medium
+        - Low
+        - Time budget (specified per model below)
+        - Mixed (specified per model below)
+        - Provider-managed (no selectable setting)
+        - Unknown (not available)
+        - Not applicable (no LLM used)
     validations:
       required: true
   - type: textarea
     id: other_llms
     attributes:
       label: Other LLMs
-      description: Only if you selected "Other". One per line, provider and model name, separated by a comma.
+      description: Only if you selected Other. One per line, provider and model name, separated by a comma. Use unknown for an undisclosed provider.
       placeholder: |-
-        Google, gemini 3 pro
-        DeepSeek, r2
+        Provider, model name
   - type: textarea
     id: llm_details
     attributes:
-      label: LLM versions, settings and roles
-      description: 'One line per LLM: the model name, then "version", "reasoning" and "role", separated by "|". Write "unknown" for anything you do not know.'
+      label: Per-model versions, thinking and roles
+      description: 'One line per model: name | version: exact version or unknown | thinking: actual level or unknown | time: actual budget/duration or unknown | role: work performed. For Argon, add provider: name if known. Write None for people-only work.'
       placeholder: |-
-        GPT 6.1 Sol | version: unknown | reasoning: max | role: generated the proof
-        Claude Opus 5.5 | version: unknown | reasoning: high | role: checked the proof
+        GPT 6.1 Sol | version: unknown | thinking: high | time: unknown | role: generated the proof
+        Claude Opus 5.5 | version: unknown | thinking: unknown | time: 30 minutes elapsed | role: checked the proof
+    validations:
+      required: true
+  - type: textarea
+    id: model_evidence
+    attributes:
+      label: Model eligibility and verification evidence
+      description: For models outside the examples, document an equivalent future model's demonstrated mathematical success, a previously demonstrated multi-agent architecture, or a correctness check by a demonstrated model. Identify the reviewer, exact checked scope, settings and supporting links. Self-review alone is not independent verification. Leave empty for people-only work or listed examples.
   - type: checkboxes
     id: declarations
     attributes:
