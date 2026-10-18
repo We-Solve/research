@@ -334,6 +334,11 @@ Generated index of public research records.
 | BIOCAT-97 | [Co-translational folding law](../problems/2a/prb_2a6d0cab078848da9c3a008b0c5ce718/) |
 | BIOCAT-98 | [Translation-speed optimisation](../problems/83/prb_83f6c16c7496478ebb8e981481a630f6/) |
 | BIOCAT-99 | [Quantitative mechanosensing](../problems/d7/prb_d780a6fbe9304b348eb94b8933e0b5b1/) |
+| ECON-1 | [Optimal dimension dependence of constant self-play regret](../problems/60/prb_6025ac0ad28642c583828333cd1effd6/) |
+| ECON-2 | [Explicit constant-regret bounds for plain Optimistic Hedge](../problems/bc/prb_bc572aa70a8748a3b489fa9941f9307e/) |
+| ECON-3 | [Finite-bit uncoupled learning with constant swap regret](../problems/2a/prb_2a3012883e274a1384504ef3c9221892/) |
+| ECON-4 | [Axiomatic containment of Mertens-stable sets without genericity](../problems/34/prb_34ecf5fa262f4a85a0fbe4af9837c46b/) |
+| ECON-5 | [Strategic axioms selecting stable sets themselves](../problems/a7/prb_a793fdc7ba9145ad84b1812ac0512eca/) |
 | ECON-C12-126 | [Pre-analysis commitments compatible with adaptive experimentation](../problems/fe/prb_fed06dc1649f4ddc9d55e33ddafb92df/) |
 | ECON-C12-156 | [Multiplicity and power in adaptive platform trials](../problems/25/prb_2596c40826964b68a61ab959feb0ffb5/) |
 | ECON-C13-259 | [Confidence sequences for adaptively evolving causal targets](../problems/09/prb_09b088d7510547b8936ae2b53776cc4d/) |
