@@ -10,7 +10,7 @@ This repository holds the public research records and their source files. It doe
 - `problems/<shard>/<problem-id>/statement.*`: the problem statement.
 - `problems/<shard>/<problem-id>/contributions/<contribution-id>/`: a contribution record (`contribution.yaml`) and its source files.
 - `problems/<shard>/<problem-id>/reviews/`: community reviews of contributions.
-- `browse/aliases.json` and `browse/README.md`: public handles (for example `TOP-1`, `ERDOS-5`, `ECON-C73-1`) and the folders they point to.
+- `browse/aliases.json` and `browse/README.md`: public handles (opaque `prb_…` IDs, `ERDOS-5`, `ECON-C73-1`) and the folders they point to.
 
 Some problems appear as several records because they were catalogued more than once; the website shows them on one page.
 
