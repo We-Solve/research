@@ -2481,6 +2481,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Pillai's Conjecture](../problems/51/prb_51229284b6a441ceb290aa3d859772a5/) | [Metadata](../problems/51/prb_51229284b6a441ceb290aa3d859772a5/problem.yaml) |
 | [Erdős-Straus Conjecture](../problems/da/prb_da2fe01711834bc4b56b2e9fd77a874f/) | [Metadata](../problems/da/prb_da2fe01711834bc4b56b2e9fd77a874f/problem.yaml) |
 | [The Gauss Circle Problem](../problems/a3/prb_a3620cab0e32481b92765460a2c8e118/) | [Metadata](../problems/a3/prb_a3620cab0e32481b92765460a2c8e118/problem.yaml) |
+| [Hilbert's Fifteenth Problem](../problems/80/prb_803a746efe744475aa51d1703759600d/) | [Metadata](../problems/80/prb_803a746efe744475aa51d1703759600d/problem.yaml) |
 | [Hilbert's Sixteenth Problem](../problems/05/prb_058751905de54d62b299a5798ecd3acc/) | [Metadata](../problems/05/prb_058751905de54d62b299a5798ecd3acc/problem.yaml) |
 | [The Inscribed Square Problem](../problems/26/prb_26a30bd3d6434465b87a33d26b13d5a0/) | [Metadata](../problems/26/prb_26a30bd3d6434465b87a33d26b13d5a0/problem.yaml) |
 | [Falconer's Conjecture](../problems/80/prb_803347402fb54655b83463eae08298b7/) | [Metadata](../problems/80/prb_803347402fb54655b83463eae08298b7/problem.yaml) |
@@ -3200,6 +3201,10 @@ Generated index of public research records. Current field ranks are shown on the
 | [Closed geodesics in a finite-volume torus ansatz](../problems/3d/prb_3d5d371198bf4632bb4b9f5e57c5cc73/) | [Metadata](../problems/3d/prb_3d5d371198bf4632bb4b9f5e57c5cc73/problem.yaml) |
 | [No conjugate points: flat-growth rigidity and the three-dimensional residue](../problems/2d/prb_2db8d811d7174730bc9ae805b5ca99d2/) | [Metadata](../problems/2d/prb_2db8d811d7174730bc9ae805b5ca99d2/problem.yaml) |
 | [Katok entropy rigidity and an exact time-change obstruction](../problems/01/prb_013247f8782f42f3b9edbd607ec2e860/) | [Metadata](../problems/01/prb_013247f8782f42f3b9edbd607ec2e860/problem.yaml) |
+| [A semi-flat period and weighted-geodesic reduction for fibred special Lagrangians](../problems/4b/prb_4bf3a8e9b10545ea800297248ad13c7c/) | [Metadata](../problems/4b/prb_4bf3a8e9b10545ea800297248ad13c7c/problem.yaml) |
+| [Epstein zeta minimizers and a two-sided theta transfer principle](../problems/9b/prb_9bd27377d6254960bbec545a3ecd3f1c/) | [Metadata](../problems/9b/prb_9bd27377d6254960bbec545a3ecd3f1c/problem.yaml) |
+| [A Morita shadow of contact homology and a dualizability obstruction](../problems/85/prb_8559902bfbad41f3b61e3eb5a6551210/) | [Metadata](../problems/85/prb_8559902bfbad41f3b61e3eb5a6551210/problem.yaml) |
+| [Energy and spectral-gap gates for Lagrangian corners](../problems/11/prb_11c17aba95134f9eab463f1032ed9b88/) | [Metadata](../problems/11/prb_11c17aba95134f9eab463f1032ed9b88/problem.yaml) |
 | [A rights-portability-cost rule for choosing educational assessment tools](../problems/be/prb_bea0149adc094b258fb5f585d1178e1a/) | [Metadata](../problems/be/prb_bea0149adc094b258fb5f585d1178e1a/problem.yaml) |
 | [A deployment gate for open mathematical assessment](../problems/b0/prb_b0a0667e94644c7fbc58773bdf7959df/) | [Metadata](../problems/b0/prb_b0a0667e94644c7fbc58773bdf7959df/problem.yaml) |
 | [A motivation-first deployment gate for educational technology](../problems/ee/prb_ee7e2e73f3da4c7c9cb9580a9afe80ca/) | [Metadata](../problems/ee/prb_ee7e2e73f3da4c7c9cb9580a9afe80ca/problem.yaml) |
@@ -3380,6 +3385,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [A feasibility sieve for negative-energy binary-single direct scattering](../problems/72/prb_7286502590aa4095b17a15fe1ed0da8c/) | [Metadata](../problems/72/prb_7286502590aa4095b17a15fe1ed0da8c/problem.yaml) |
 | [Full-space mass-splitting criterion for prograde relative periodic orbits](../problems/04/prb_0443990dc5ba4c9b8b9159fa38242444/) | [Metadata](../problems/04/prb_0443990dc5ba4c9b8b9159fa38242444/problem.yaml) |
 | [The Dirac-Brown invariant-subspace problem: a defect-attainment reduction](../problems/ef/prb_eff5c51fc25a491fbcd1deeb0851d068/) | [Metadata](../problems/ef/prb_eff5c51fc25a491fbcd1deeb0851d068/problem.yaml) |
+| [Serre weights and complete Hecke packets](../problems/87/prb_87b208cce5fb4386b5c3c6265cbf58fe/) | [Metadata](../problems/87/prb_87b208cce5fb4386b5c3c6265cbf58fe/problem.yaml) |
+| [A normalization audit of the higher-rank Serre weight conjecture](../problems/b7/prb_b76342017ec24cf8bb01b0e9eb311172/) | [Metadata](../problems/b7/prb_b76342017ec24cf8bb01b0e9eb311172/problem.yaml) |
 | [An arithmetic and angular reduction for the 3-4-5 triangular billiard](../problems/f3/prb_f34921aefb9a4e05be33d966b16fe197/) | [Metadata](../problems/f3/prb_f34921aefb9a4e05be33d966b16fe197/problem.yaml) |
 | [The differentiable diameter sphere problem: a three-gate obstruction](../problems/62/prb_62b2b7990c00432fa95670a06f38f7f2/) | [Metadata](../problems/62/prb_62b2b7990c00432fa95670a06f38f7f2/problem.yaml) |
 | [Almost half-maximal diameter and threshold realizability](../problems/10/prb_10eb52ddcf3c4621b1322afbfbe0d96c/) | [Metadata](../problems/10/prb_10eb52ddcf3c4621b1322afbfbe0d96c/problem.yaml) |
@@ -4578,6 +4585,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Yang–Mills Existence and Mass Gap](../problems/14/prb_143040e1e85343ff92d7f92801ed2f08/) | [Metadata](../problems/14/prb_143040e1e85343ff92d7f92801ed2f08/problem.yaml) |
 | [The Lonely Runner Conjecture](../problems/28/prb_2826bfd8993c41f4b4651cb261035578/) | [Metadata](../problems/28/prb_2826bfd8993c41f4b4651cb261035578/problem.yaml) |
 | [Kirby Problem 4.124](../problems/e4/prb_e4e075be4f14437cac3ae2eb04970564/) | [Metadata](../problems/e4/prb_e4e075be4f14437cac3ae2eb04970564/problem.yaml) |
+| [Diagonal Decomposition of Smooth Projective Varieties](../problems/0e/prb_0ece4719a502435594518342f5317614/) | [Metadata](../problems/0e/prb_0ece4719a502435594518342f5317614/problem.yaml) |
 | [Achieve global rigidity by pinning nodes](../problems/94/prb_947b70ea4888495aa7f4421ca9bfa4b9/) | [Metadata](../problems/94/prb_947b70ea4888495aa7f4421ca9bfa4b9/problem.yaml) |
 | [Acyclic orientation with connectivity prescriptions](../problems/3f/prb_3fec275cb941481796f98dd0bd4647e4/) | [Metadata](../problems/3f/prb_3fec275cb941481796f98dd0bd4647e4/problem.yaml) |
 | [Acyclic orientation with parity constraints](../problems/c8/prb_c87cc988c4994400a300f8fb0a6a4302/) | [Metadata](../problems/c8/prb_c87cc988c4994400a300f8fb0a6a4302/problem.yaml) |
@@ -4603,6 +4611,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Chromatic number of t-perfect graphs](../problems/26/prb_2691af39a39c47df82371e9caaf1c6cf/) | [Metadata](../problems/26/prb_2691af39a39c47df82371e9caaf1c6cf/problem.yaml) |
 | [Polynomial-Time Computation of Ehrhart Periods](../problems/b0/prb_b0afd77a85024d22bd88c1b3aaa1ae0f/) | [Metadata](../problems/b0/prb_b0afd77a85024d22bd88c1b3aaa1ae0f/problem.yaml) |
 | [Compatible Euler-tours](../problems/02/prb_025057bdf4674bbcb2dbf1f7c7d48552/) | [Metadata](../problems/02/prb_025057bdf4674bbcb2dbf1f7c7d48552/problem.yaml) |
+| [Beilinson–Soulé Vanishing for Smooth Schemes](../problems/32/prb_326b18d7437c407d9cfb9709fe76bba3/) | [Metadata](../problems/32/prb_326b18d7437c407d9cfb9709fe76bba3/problem.yaml) |
 | [Complexity of computing the rotor-router action](../problems/25/prb_2545af87f08946a78a3c65f0903a7879/) | [Metadata](../problems/25/prb_2545af87f08946a78a3c65f0903a7879/problem.yaml) |
 | [Asymptotic Goodness of Function-Field-Tower Codes](../problems/a9/prb_a9a8c2b034424db9832b8011dfeec30e/) | [Metadata](../problems/a9/prb_a9a8c2b034424db9832b8011dfeec30e/problem.yaml) |
 | [Semaev's Auxiliary Elliptic-Curve Index-Calculus Algorithm](../problems/75/prb_75b799f3bf674d64a43a8bd095743b59/) | [Metadata](../problems/75/prb_75b799f3bf674d64a43a8bd095743b59/problem.yaml) |
@@ -4697,6 +4706,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Continuous-Spectrum Analysis of Nelson-Type Models](../problems/81/prb_81fd16d770dc41cbade7def2c6977cd2/) | [Metadata](../problems/81/prb_81fd16d770dc41cbade7def2c6977cd2/problem.yaml) |
 | [Higher-Dimensional Thermodynamic Limits](../problems/f3/prb_f3025fed40a1482ea992caf0f12d68b8/) | [Metadata](../problems/f3/prb_f3025fed40a1482ea992caf0f12d68b8/problem.yaml) |
 | [Integer decomposition of smooth polytopes](../problems/2a/prb_2a46d8eedb2f4b04afc95273038dad96/) | [Metadata](../problems/2a/prb_2a46d8eedb2f4b04afc95273038dad96/problem.yaml) |
+| [Topological Mirror Symmetry for Calabi–Yau Threefolds](../problems/68/prb_689e16f76c5a4d75b37121f656c9d81c/) | [Metadata](../problems/68/prb_689e16f76c5a4d75b37121f656c9d81c/problem.yaml) |
 | [Quantum Zeta Functions for Mirror Calabi–Yau Threefolds](../problems/45/prb_45b878048dc64ed3a777543cd02b84b1/) | [Metadata](../problems/45/prb_45b878048dc64ed3a777543cd02b84b1/problem.yaml) |
 | [List colouring of two matroids](../problems/c3/prb_c3f4def1fc8b445f9b68206b09268840/) | [Metadata](../problems/c3/prb_c3f4def1fc8b445f9b68206b09268840/problem.yaml) |
 | [Local edge-connectivity augmentation of a hypergraph with fixed rank](../problems/f6/prb_f67de5a7079f4008a0e7eae157084813/) | [Metadata](../problems/f6/prb_f67de5a7079f4008a0e7eae157084813/problem.yaml) |
@@ -4771,6 +4781,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Weighted bipartite edge colouring](../problems/04/prb_045153f11cf24c738ca1f7e5b25b1c0a/) | [Metadata](../problems/04/prb_045153f11cf24c738ca1f7e5b25b1c0a/problem.yaml) |
 | [Half-Distance Decoding for Hypergraph Codes](../problems/bf/prb_bf02b603daa64b15a20d7caacea91eb6/) | [Metadata](../problems/bf/prb_bf02b603daa64b15a20d7caacea91eb6/problem.yaml) |
 | [Multiplicity Decoding for Order-Domain Codes](../problems/0a/prb_0a34234ac0c745cca87d32dfe5a82221/) | [Metadata](../problems/0a/prb_0a34234ac0c745cca87d32dfe5a82221/problem.yaml) |
+| [Strominger–Yau–Zaslow Mirror-Symmetry Conjecture](../problems/19/prb_19a072ac797548fab712e4997f12e0cc/) | [Metadata](../problems/19/prb_19a072ac797548fab712e4997f12e0cc/problem.yaml) |
 | [Quantitative Manipulability of Social Choice Functions](../problems/a4/prb_a417328f39e44c0baa07c2a8f3e3cc59/) | [Metadata](../problems/a4/prb_a417328f39e44c0baa07c2a8f3e3cc59/problem.yaml) |
 | [Individual Manipulation Power in Neutral Social Choice](../problems/03/prb_03f2579ec85f49c5ba70be0080a76cab/) | [Metadata](../problems/03/prb_03f2579ec85f49c5ba70be0080a76cab/problem.yaml) |
 | [Ramsey Sets and Finite Transitive Embeddings](../problems/25/prb_2557284bfff14f8d86d7ce68b7ded00e/) | [Metadata](../problems/25/prb_2557284bfff14f8d86d7ce68b7ded00e/problem.yaml) |
@@ -4783,6 +4794,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Learning Capacity of Totally Geodesic Map Families](../problems/5f/prb_5f37301f96eb4a9aa75783eeab27ee31/) | [Metadata](../problems/5f/prb_5f37301f96eb4a9aa75783eeab27ee31/problem.yaml) |
 | [Convexity of Injectivity Loci Under MTW](../problems/9e/prb_9eb79a56a0fd4725a949457577f30b30/) | [Metadata](../problems/9e/prb_9eb79a56a0fd4725a949457577f30b30/problem.yaml) |
 | [Wolff Cone-Decomposition and Local-Smoothing Conjectures](../problems/72/prb_728aad97bf4b4bec90dfcbbe77c6a694/) | [Metadata](../problems/72/prb_728aad97bf4b4bec90dfcbbe77c6a694/problem.yaml) |
+| [Bost Assembly Conjecture with $C^*$-Algebra Coefficients](../problems/e7/prb_e75a27ffb6d24c9694ba949fd3ad5400/) | [Metadata](../problems/e7/prb_e75a27ffb6d24c9694ba949fd3ad5400/problem.yaml) |
 | [Algebraic Dimension and Reduction of Hyperkähler Manifolds](../problems/17/prb_1777aee6c14140b793d2fb5fa12b3d44/) | [Metadata](../problems/17/prb_1777aee6c14140b793d2fb5fa12b3d44/problem.yaml) |
 | [Decidability of Simplicial-Complex Embeddability](../problems/6f/prb_6f6d8dc03d8f450d8dd5bf0288ef21c5/) | [Metadata](../problems/6f/prb_6f6d8dc03d8f450d8dd5bf0288ef21c5/problem.yaml) |
 | [Falconer Distance Conjecture](../problems/a0/prb_a0e8ab73b46543d792ad7251057747f9/) | [Metadata](../problems/a0/prb_a0e8ab73b46543d792ad7251057747f9/problem.yaml) |
@@ -4822,6 +4834,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [The Lex-Plus-Powers Betti Number Conjecture](../problems/62/prb_62d3b277aba4410cbc97d06f91ee7a7f/) | [Metadata](../problems/62/prb_62d3b277aba4410cbc97d06f91ee7a7f/problem.yaml) |
 | [Independence and Density Thresholds for Cuckoo Hashing](../problems/59/prb_593b984c0c184f6ab5ee8e31136e779a/) | [Metadata](../problems/59/prb_593b984c0c184f6ab5ee8e31136e779a/problem.yaml) |
 | [De Giorgi Conjecture for the Allen–Cahn Equation](../problems/3c/prb_3c375a953e6f4ef88f3b7d50554ce005/) | [Metadata](../problems/3c/prb_3c375a953e6f4ef88f3b7d50554ce005/problem.yaml) |
+| [Farrell–Jones Assembly Maps for Torsion-Free Groups](../problems/88/prb_88f82c357b5641019993ff56b95ff086/) | [Metadata](../problems/88/prb_88f82c357b5641019993ff56b95ff086/problem.yaml) |
 | [Efficient Reduced Free-Energy Computation for Atomistic Systems](../problems/24/prb_24b8bae2ba42445095f84a4ccee0c848/) | [Metadata](../problems/24/prb_24b8bae2ba42445095f84a4ccee0c848/problem.yaml) |
 | [Parity of 2-Primary Tate–Shafarevich Groups](../problems/61/prb_61987fde1e7141fcae95dad101ee10c1/) | [Metadata](../problems/61/prb_61987fde1e7141fcae95dad101ee10c1/problem.yaml) |
 | [Section Conjecture for Hyperbolic Curves Without Boundary Points](../problems/db/prb_dbcfff869e4e44a7a474a08ba27c9c3e/) | [Metadata](../problems/db/prb_dbcfff869e4e44a7a474a08ba27c9c3e/problem.yaml) |
@@ -4835,6 +4848,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Sigma Models with Noncommutative Target Spaces](../problems/98/prb_98ea3e0e217e46d581ca3ae104f8f14a/) | [Metadata](../problems/98/prb_98ea3e0e217e46d581ca3ae104f8f14a/problem.yaml) |
 | [Geometric Collapse in the Toroidal Six-Vertex Model](../problems/7d/prb_7d625c5481724096890afcd0811e66e0/) | [Metadata](../problems/7d/prb_7d625c5481724096890afcd0811e66e0/problem.yaml) |
 | [Rooted-Tree Expansions of Renormalized Two-Point Functions](../problems/d8/prb_d8dddee8f43f41e6b48d49687d731b9c/) | [Metadata](../problems/d8/prb_d8dddee8f43f41e6b48d49687d731b9c/problem.yaml) |
+| [Toric Embedded Resolution of Equicharacteristic Local Domains](../problems/a7/prb_a797035449624ded907b9de0c9a74008/) | [Metadata](../problems/a7/prb_a797035449624ded907b9de0c9a74008/problem.yaml) |
 | [Weak Zariski Decompositions of Pseudo-Effective Divisors](../problems/39/prb_392ec4423d394e4893ea13519358310a/) | [Metadata](../problems/39/prb_392ec4423d394e4893ea13519358310a/problem.yaml) |
 | [Nonlinear Stability of the Full Kerr Family](../problems/5c/prb_5ce49958e4074ca5b57b17a89fc3a349/) | [Metadata](../problems/5c/prb_5ce49958e4074ca5b57b17a89fc3a349/problem.yaml) |
 | [Uniqueness of Stationary Black-Hole Exteriors](../problems/54/prb_54e944c3ab0e41de882d7f09b668c49f/) | [Metadata](../problems/54/prb_54e944c3ab0e41de882d7f09b668c49f/problem.yaml) |
@@ -4852,9 +4866,12 @@ Generated index of public research records. Current field ranks are shown on the
 | [Naimark's Problem for Nonseparable $C^*$-Algebras](../problems/72/prb_72ebd691eabb42c3898208a964a3a8a4/) | [Metadata](../problems/72/prb_72ebd691eabb42c3898208a964a3a8a4/problem.yaml) |
 | [Birkhoff Conjecture for Integrable Convex Billiards](../problems/bc/prb_bcc98ed1326845478b53f5d619f7f196/) | [Metadata](../problems/bc/prb_bcc98ed1326845478b53f5d619f7f196/problem.yaml) |
 | [Rigidity and Assembly Conjectures for Discrete Groups](../problems/d6/prb_d6340c2807dc4497b2227b08f9025ebc/) | [Metadata](../problems/d6/prb_d6340c2807dc4497b2227b08f9025ebc/problem.yaml) |
+| [Farrell–Jones Conjecture for Torsion-Free Groups](../problems/9f/prb_9fde98c847b44488818da3bb4c899bf3/) | [Metadata](../problems/9f/prb_9fde98c847b44488818da3bb4c899bf3/problem.yaml) |
 | [Casimir-Connection Monodromy and Quantum Weyl Groups](../problems/b8/prb_b8fc11951e0a4a6d866a3aebccbc7eba/) | [Metadata](../problems/b8/prb_b8fc11951e0a4a6d866a3aebccbc7eba/problem.yaml) |
 | [Novikov Homotopy Invariance Conjecture](../problems/dc/prb_dce67f7ff23d4e7b8615ee4a40cc287d/) | [Metadata](../problems/dc/prb_dce67f7ff23d4e7b8615ee4a40cc287d/problem.yaml) |
+| [Affine Invariant Submanifolds in Higher-Genus Strata](../problems/be/prb_be04fc78584b4d12ba892fa1fc90b632/) | [Metadata](../problems/be/prb_be04fc78584b4d12ba892fa1fc90b632/problem.yaml) |
 | [Surface Subgroups of Word-Hyperbolic Groups](../problems/b7/prb_b79b5ffe1f9145ef8a3f22c198e94662/) | [Metadata](../problems/b7/prb_b79b5ffe1f9145ef8a3f22c198e94662/problem.yaml) |
+| [Absolute Galois Groups among Profinite Groups](../problems/80/prb_80b18fbed37b4d7c9a573a649749107a/) | [Metadata](../problems/80/prb_80b18fbed37b4d7c9a573a649749107a/problem.yaml) |
 | [Explicit Deterministic Restricted Isometry Matrices](../problems/a6/prb_a6e2dad02446451c9db60d108a8fb12b/) | [Metadata](../problems/a6/prb_a6e2dad02446451c9db60d108a8fb12b/problem.yaml) |
 | [Sample Complexity of Active Coordinate Identification](../problems/42/prb_42ab6e7b6bda4bf6843ce0d7499ebd63/) | [Metadata](../problems/42/prb_42ab6e7b6bda4bf6843ce0d7499ebd63/problem.yaml) |
 | [Large-Scale Mechanisms Driving Atmospheric Monsoons](../problems/d2/prb_d29bca05fa7f4c7e868d152bc4d3089b/) | [Metadata](../problems/d2/prb_d29bca05fa7f4c7e868d152bc4d3089b/problem.yaml) |
@@ -4871,6 +4888,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Polyhedral Information Derived from Known Symmetries](../problems/68/prb_683fb4b677ec44dbb8a26af74fcbf947/) | [Metadata](../problems/68/prb_683fb4b677ec44dbb8a26af74fcbf947/problem.yaml) |
 | [Morrison’s Cone Conjecture for Calabi–Yau Pairs](../problems/70/prb_70939095928945cfa91bd0b3597f6105/) | [Metadata](../problems/70/prb_70939095928945cfa91bd0b3597f6105/problem.yaml) |
 | [Strict Cost–$\ell^2$-Betti Inequalities for Free Group Actions](../problems/f7/prb_f7d895d282b841a38d2a40e72c149bfc/) | [Metadata](../problems/f7/prb_f7d895d282b841a38d2a40e72c149bfc/problem.yaml) |
+| [Attainable $\ell^2$-Betti Numbers of a Fixed Group](../problems/67/prb_670f0c8494ea49d0a1589b6ce381c08d/) | [Metadata](../problems/67/prb_670f0c8494ea49d0a1589b6ce381c08d/problem.yaml) |
 | [Multipoint Seshadri Constants and Nagata-Type Conjectures](../problems/76/prb_76ce5623989b4d8a840f42f6f4901c89/) | [Metadata](../problems/76/prb_76ce5623989b4d8a840f42f6f4901c89/problem.yaml) |
 | [Brennan-Type Integrability for Crescent-Domain Conformal Maps](../problems/ca/prb_ca8e916ec6324ab7803ea126c4cbbf9b/) | [Metadata](../problems/ca/prb_ca8e916ec6324ab7803ea126c4cbbf9b/problem.yaml) |
 | [Strict Positivity for Fourth-Order Quantum Diffusion](../problems/c3/prb_c33f659978e24b5bb808820f031458d7/) | [Metadata](../problems/c3/prb_c33f659978e24b5bb808820f031458d7/problem.yaml) |
@@ -4883,7 +4901,9 @@ Generated index of public research records. Current field ranks are shown on the
 | [Uniqueness in the Boltzmann–Nordheim Condensate Model](../problems/8d/prb_8dbd859b7a784bc0ae21bd6720f6b950/) | [Metadata](../problems/8d/prb_8dbd859b7a784bc0ae21bd6720f6b950/problem.yaml) |
 | [Isomorphism of Free Group Factors](../problems/8e/prb_8e52d6939cfe4daaa1c1aa5076bed744/) | [Metadata](../problems/8e/prb_8e52d6939cfe4daaa1c1aa5076bed744/problem.yaml) |
 | [Rational Ellipticity, Entropy, Euler Characteristic, and Formality](../problems/c4/prb_c4aa7c6073864e87ab6657c33b914248/) | [Metadata](../problems/c4/prb_c4aa7c6073864e87ab6657c33b914248/problem.yaml) |
+| [SYZ Fourier Transforms between Mirror Calabi–Yau Manifolds](../problems/0c/prb_0c0af0b9a1e741e18f9f35c4032a8f92/) | [Metadata](../problems/0c/prb_0c0af0b9a1e741e18f9f35c4032a8f92/problem.yaml) |
 | [Algebraic K-Theory and Rigidity Conjectures for Discrete Groups](../problems/3c/prb_3cdd32e3f5e44b148162aaa9cc7ee5f2/) | [Metadata](../problems/3c/prb_3cdd32e3f5e44b148162aaa9cc7ee5f2/problem.yaml) |
+| [Multiplicative Generation of Rational K-Theory](../problems/44/prb_44841c7cac1a4be89320944faa333fb6/) | [Metadata](../problems/44/prb_44841c7cac1a4be89320944faa333fb6/problem.yaml) |
 | [Energy Cost of Density Defects in Fermi Seas](../problems/2d/prb_2df8b910d57a4c76a4793e83940ae6ef/) | [Metadata](../problems/2d/prb_2df8b910d57a4c76a4793e83940ae6ef/problem.yaml) |
 | [Fast Solvers for the Electronic Schrödinger Equation](../problems/8c/prb_8cbcd4fb02d34024804acdce18f64139/) | [Metadata](../problems/8c/prb_8cbcd4fb02d34024804acdce18f64139/problem.yaml) |
 | [Low-Rank Subexponential Electronic-Structure Algorithms](../problems/36/prb_36881e58239e4690a71a1d1b91eb1ca6/) | [Metadata](../problems/36/prb_36881e58239e4690a71a1d1b91eb1ca6/problem.yaml) |
@@ -4923,6 +4943,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Regular Conformal Equations for Matter with Nonzero Trace](../problems/88/prb_88d2ece118824b85bb107dfbff36a65b/) | [Metadata](../problems/88/prb_88d2ece118824b85bb107dfbff36a65b/problem.yaml) |
 | [Non-Disappearance of Nonnegative Scalar-Curvature Limits](../problems/f9/prb_f9cc68cec5f14927815171986938e258/) | [Metadata](../problems/f9/prb_f9cc68cec5f14927815171986938e258/problem.yaml) |
 | [Resonant Mode Mixing in Anti-de-Sitter Instability](../problems/22/prb_223fbd5479444392bc921016008e6ecf/) | [Metadata](../problems/22/prb_223fbd5479444392bc921016008e6ecf/problem.yaml) |
+| [Grothendieck Section Conjecture for Hyperbolic Curves](../problems/71/prb_71d0cc40198841dbbc883d5f4b666dc1/) | [Metadata](../problems/71/prb_71d0cc40198841dbbc883d5f4b666dc1/problem.yaml) |
 | [Log Abundance for Semi-Log-Canonical Pairs](../problems/cc/prb_cce7fe60ec874adfa49b505d99f3b1fa/) | [Metadata](../problems/cc/prb_cce7fe60ec874adfa49b505d99f3b1fa/problem.yaml) |
 | [Euclidean Ramsey Configurations and Sphericity](../problems/ed/prb_edb93bed0bab49568f1d6c9543572568/) | [Metadata](../problems/ed/prb_edb93bed0bab49568f1d6c9543572568/problem.yaml) |
 | [Sarnak's Möbius Disjointness Conjecture](../problems/46/prb_46be6f53f4f941d0a9772319c69014bb/) | [Metadata](../problems/46/prb_46be6f53f4f941d0a9772319c69014bb/problem.yaml) |
@@ -4952,6 +4973,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Displacement Exponents for Low-Dimensional Self-Avoiding Walks](../problems/31/prb_315e329f0a274e8da814a13a0fe3ad8a/) | [Metadata](../problems/31/prb_315e329f0a274e8da814a13a0fe3ad8a/problem.yaml) |
 | [Worst-Case Inputs for Smoothed Caching Complexity](../problems/16/prb_16b6faf128754a7aad63eddf8b78a84a/) | [Metadata](../problems/16/prb_16b6faf128754a7aad63eddf8b78a84a/problem.yaml) |
 | [Cryptographic Replacement of Pseudorandom Steganographic Functions](../problems/34/prb_344cc42e9e7a4e9288488848a32dc0b7/) | [Metadata](../problems/34/prb_344cc42e9e7a4e9288488848a32dc0b7/problem.yaml) |
+| [Growth Functions of Finitely Generated Groups](../problems/57/prb_570a60c3ff0a4380960ca9e57d4826b0/) | [Metadata](../problems/57/prb_570a60c3ff0a4380960ca9e57d4826b0/problem.yaml) |
 | [Grothendieck–Serre Conjecture for Regular Local Rings](../problems/81/prb_8133bb54e380488094c7381bc624234f/) | [Metadata](../problems/81/prb_8133bb54e380488094c7381bc624234f/problem.yaml) |
 | [Lefschetz Classes and the Tate and Hodge Conjectures](../problems/7a/prb_7aea4e97ceee43c3a4e1a0a281762bf6/) | [Metadata](../problems/7a/prb_7aea4e97ceee43c3a4e1a0a281762bf6/problem.yaml) |
 | [Auslander Conjecture for Complete Affine Manifolds](../problems/59/prb_59c520386a6a41f49ffb30030bad1da5/) | [Metadata](../problems/59/prb_59c520386a6a41f49ffb30030bad1da5/problem.yaml) |
@@ -4977,6 +4999,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Efficient Moment Relaxations for Polynomial Optimization](../problems/46/prb_460dde068b454de684613f9985839546/) | [Metadata](../problems/46/prb_460dde068b454de684613f9985839546/problem.yaml) |
 | [Robust Spectral Tensor Methods for Latent-Variable Learning](../problems/5f/prb_5fe5f9b6457b44b6be6e766b1666d130/) | [Metadata](../problems/5f/prb_5fe5f9b6457b44b6be6e766b1666d130/problem.yaml) |
 | [Deligne's Conjecture for Critical Motive Values](../problems/ed/prb_ed98f6e987cb4a0389787900287e4a2a/) | [Metadata](../problems/ed/prb_ed98f6e987cb4a0389787900287e4a2a/problem.yaml) |
+| [Tropical-Disc Mirror Algebras for Log Calabi–Yau Varieties](../problems/02/prb_02bb7819dad3459fa0c0c78968529be9/) | [Metadata](../problems/02/prb_02bb7819dad3459fa0c0c78968529be9/problem.yaml) |
 | [Hardness Amplification by Exponent Noise](../problems/2f/prb_2fe065a563df4bd68c949fb4dbd840ec/) | [Metadata](../problems/2f/prb_2fe065a563df4bd68c949fb4dbd840ec/problem.yaml) |
 | [Optimal Fair Multiparty Coin Flipping](../problems/bc/prb_bc6118cefeab4c4283a85ef1f2b1328f/) | [Metadata](../problems/bc/prb_bc6118cefeab4c4283a85ef1f2b1328f/problem.yaml) |
 | [Witness Pseudorandom Functions from Witness Encryption](../problems/67/prb_674aac0a284d4753859f78f3b532b5b1/) | [Metadata](../problems/67/prb_674aac0a284d4753859f78f3b532b5b1/problem.yaml) |
@@ -4986,6 +5009,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Gromov Macroscopic Dimension Conjecture](../problems/c8/prb_c84bb824a762431bafa5adb9663524fa/) | [Metadata](../problems/c8/prb_c84bb824a762431bafa5adb9663524fa/problem.yaml) |
 | [Abundance Conjecture for Projective Minimal Models](../problems/d5/prb_d57a1a407e98495eb8aa921765391797/) | [Metadata](../problems/d5/prb_d57a1a407e98495eb8aa921765391797/problem.yaml) |
 | [Rational Curves on Compact Kähler Manifolds](../problems/62/prb_62adfd1bae28474cb87d9b764a37b9ec/) | [Metadata](../problems/62/prb_62adfd1bae28474cb87d9b764a37b9ec/problem.yaml) |
+| [Yau–Tian–Donaldson Conjecture for Polarized Varieties](../problems/b6/prb_b67b1193775f4afe877f1e7fa6e72d40/) | [Metadata](../problems/b6/prb_b67b1193775f4afe877f1e7fa6e72d40/problem.yaml) |
 | [Multipartite Quantum Data Hiding with Separable States](../problems/28/prb_28a4a9915c1b455eb4001fb740440227/) | [Metadata](../problems/28/prb_28a4a9915c1b455eb4001fb740440227/problem.yaml) |
 | [Solvability of Group Equations and Surjectivity of Word Maps](../problems/c3/prb_c33351ffdc9147f8aec7c977f5d8232b/) | [Metadata](../problems/c3/prb_c33351ffdc9147f8aec7c977f5d8232b/problem.yaml) |
 | [The mod-$\ell$ Bogomolov–Pop conjecture](../problems/1e/prb_1e56855c6f0b406bb4d1ed041a4e469c/) | [Metadata](../problems/1e/prb_1e56855c6f0b406bb4d1ed041a4e469c/problem.yaml) |
@@ -5052,6 +5076,9 @@ Generated index of public research records. Current field ranks are shown on the
 | [Cartan determinant conjecture](../problems/96/prb_9624ae17b29947d98a9f35ce4f88c647/) | [Metadata](../problems/96/prb_9624ae17b29947d98a9f35ce4f88c647/problem.yaml) |
 | [Attainment of Constrained Domain-Wall Energies](../problems/1c/prb_1c9c7b42687a4380960b82f44901b4e2/) | [Metadata](../problems/1c/prb_1c9c7b42687a4380960b82f44901b4e2/problem.yaml) |
 | [Multistationarity and Permanence in MESSI Reaction Networks](../problems/a6/prb_a66941bfaf5645d89ce82e7733183a6d/) | [Metadata](../problems/a6/prb_a66941bfaf5645d89ce82e7733183a6d/problem.yaml) |
+| [Existence of Irreducible Hecke Eigensheaves](../problems/89/prb_89cf427bedc04ca79728b3c41a9ed4e4/) | [Metadata](../problems/89/prb_89cf427bedc04ca79728b3c41a9ed4e4/problem.yaml) |
+| [Refined Local Langlands Correspondence for Quasi-Split Groups](../problems/57/prb_57d4688988b84f48986b727b5e62def9/) | [Metadata](../problems/57/prb_57d4688988b84f48986b727b5e62def9/problem.yaml) |
+| [Langlands Packets Across Extended Pure Inner Forms](../problems/70/prb_70e895c9e17c49908ade6d9152ffc9f4/) | [Metadata](../problems/70/prb_70e895c9e17c49908ade6d9152ffc9f4/problem.yaml) |
 | [Absolute Continuity Parameters for Bernoulli Convolutions](../problems/88/prb_885939cbc9074f899c8ce019cfbcabc8/) | [Metadata](../problems/88/prb_885939cbc9074f899c8ce019cfbcabc8/problem.yaml) |
 | [Overlap Gaps and Algorithmic Hardness of Submatrix Detection](../problems/de/prb_de5df14e936a46e189c677a2308f7aea/) | [Metadata](../problems/de/prb_de5df14e936a46e189c677a2308f7aea/problem.yaml) |
 | [Sidorenko's Conjecture for Bipartite Graphons](../problems/91/prb_91179ba769c44fa993c93890aebd8a9c/) | [Metadata](../problems/91/prb_91179ba769c44fa993c93890aebd8a9c/problem.yaml) |
@@ -5077,6 +5104,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Discrete Vector Fields for Voronoi-Cohomology Computations](../problems/bc/prb_bc278ca596ea472f84e1ffc364ae12cd/) | [Metadata](../problems/bc/prb_bc278ca596ea472f84e1ffc364ae12cd/problem.yaml) |
 | [Metric-Tensor Scaling in Liouville Quantum Gravity](../problems/f7/prb_f76fd27dc90d495b87ee65d3350b8d39/) | [Metadata](../problems/f7/prb_f76fd27dc90d495b87ee65d3350b8d39/problem.yaml) |
 | [Lech Multiplicity Conjecture for Flat Local Extensions](../problems/1a/prb_1a1bb0241adc497ba88eaf81784334e6/) | [Metadata](../problems/1a/prb_1a1bb0241adc497ba88eaf81784334e6/problem.yaml) |
+| [Embedded Resolution of Singularities in Positive Characteristic](../problems/70/prb_70d5e3d544f346e7ba18134576651106/) | [Metadata](../problems/70/prb_70d5e3d544f346e7ba18134576651106/problem.yaml) |
 | [Security of Interactive Lattice-Based Group Key Exchange](../problems/8b/prb_8b859cbc41b34accab9a03d0a5b64c1e/) | [Metadata](../problems/8b/prb_8b859cbc41b34accab9a03d0a5b64c1e/problem.yaml) |
 | [Assumptions and Function Classes for Function Secret Sharing](../problems/d7/prb_d7f838132431425baf9c47061e155ff6/) | [Metadata](../problems/d7/prb_d7f838132431425baf9c47061e155ff6/problem.yaml) |
 | [Error-Free Multiparty Homomorphic Secret Sharing](../problems/67/prb_6712b81dd2fb4035947b20a701986c56/) | [Metadata](../problems/67/prb_6712b81dd2fb4035947b20a701986c56/problem.yaml) |
@@ -5241,6 +5269,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [Geometric Analogues of Finite Effective Complexity](../problems/2a/prb_2a167239617d48cf8d46ab7171de48c3/) | [Metadata](../problems/2a/prb_2a167239617d48cf8d46ab7171de48c3/problem.yaml) |
 | [Comparative Advantages of Physics-Based and Machine-Learned Models](../problems/2f/prb_2fff893805534436abddcbdcd3146905/) | [Metadata](../problems/2f/prb_2fff893805534436abddcbdcd3146905/problem.yaml) |
 | [High-Dimensional Regression and PDE Learning Without Dimensional Curse](../problems/46/prb_46c03888590e4953aa9d1bda806ffc7f/) | [Metadata](../problems/46/prb_46c03888590e4953aa9d1bda806ffc7f/problem.yaml) |
+| [Green–Griffiths–Lang Conjecture for General-Type Varieties](../problems/3b/prb_3bd15b6c2ecb4499a33e15ac522615b6/) | [Metadata](../problems/3b/prb_3bd15b6c2ecb4499a33e15ac522615b6/problem.yaml) |
+| [Directed Green–Griffiths–Lang Conjecture Beyond Rank One](../problems/0b/prb_0ba5558367f840ce882dc31acc03481a/) | [Metadata](../problems/0b/prb_0ba5558367f840ce882dc31acc03481a/problem.yaml) |
 | [Generic Singularities of Mean Curvature Flow](../problems/09/prb_09e2b1cf577547d9bf604db3f2736dad/) | [Metadata](../problems/09/prb_09e2b1cf577547d9bf604db3f2736dad/problem.yaml) |
 | [Positive Scalar Curvature Obstruction for Aspherical Manifolds](../problems/ad/prb_ad5e6aa377994f8d9716563114d16180/) | [Metadata](../problems/ad/prb_ad5e6aa377994f8d9716563114d16180/problem.yaml) |
 | [The Restricted Geometric Langlands Conjecture](../problems/dd/prb_ddefe700497346ca9623f54716feaa1b/) | [Metadata](../problems/dd/prb_ddefe700497346ca9623f54716feaa1b/problem.yaml) |
@@ -5255,6 +5285,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Interior Singularity Structure of Dynamically Formed Black Holes](../problems/41/prb_41141d01a5624b039b15b87d4d124511/) | [Metadata](../problems/41/prb_41141d01a5624b039b15b87d4d124511/problem.yaml) |
 | [Local Weak Cosmic Censorship in Charged Spherical Collapse](../problems/ab/prb_abbc44b192e74d92bdb9d6fc1905f39d/) | [Metadata](../problems/ab/prb_abbc44b192e74d92bdb9d6fc1905f39d/problem.yaml) |
 | [Equality of Capacity–Volume and ADM Mass](../problems/7e/prb_7e04b5486a984770a4e67feea7f9f770/) | [Metadata](../problems/7e/prb_7e04b5486a984770a4e67feea7f9f770/problem.yaml) |
+| [Classification and K-Theory of Compact Quantum Groups](../problems/3b/prb_3b9bd12eeadf4ec78174d92be94e4265/) | [Metadata](../problems/3b/prb_3b9bd12eeadf4ec78174d92be94e4265/problem.yaml) |
 | [Local Smoothing for the Euclidean Wave Equation](../problems/94/prb_94f7553139864cf78d6311e3db49c212/) | [Metadata](../problems/94/prb_94f7553139864cf78d6311e3db49c212/problem.yaml) |
 | [Zariski's Multiplicity Conjecture](../problems/8c/prb_8c74d32e740547ef858696e66536dec9/) | [Metadata](../problems/8c/prb_8c74d32e740547ef858696e66536dec9/problem.yaml) |
 | [Submultiplicativity Gaps for Stabilizer Extent](../problems/9b/prb_9bf793bd3e0e401f9cb614b02fd6b93f/) | [Metadata](../problems/9b/prb_9bf793bd3e0e401f9cb614b02fd6b93f/problem.yaml) |
@@ -5307,6 +5338,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Kannan–Lovász–Simonovits Isoperimetric Conjecture](../problems/ff/prb_ffacccea279a4cd180b6337164b2c200/) | [Metadata](../problems/ff/prb_ffacccea279a4cd180b6337164b2c200/problem.yaml) |
 | [KLS Isoperimetric Coefficient Bound for Log-Concave Measures](../problems/5e/prb_5ebb97700a6242fd904bacc4565ac0f4/) | [Metadata](../problems/5e/prb_5ebb97700a6242fd904bacc4565ac0f4/problem.yaml) |
 | [Hadwiger’s Graph-Coloring Conjecture](../problems/ea/prb_ea4b1be387b046ab93688e75b95712da/) | [Metadata](../problems/ea/prb_ea4b1be387b046ab93688e75b95712da/problem.yaml) |
+| [Integral Geometrization with Nilpotent Singular Support](../problems/5e/prb_5eaee3092f3b4bfd9a83f42d538825fd/) | [Metadata](../problems/5e/prb_5eaee3092f3b4bfd9a83f42d538825fd/problem.yaml) |
 | [LOCAL Coloring Complexity and Constant-Round Decidability on Trees](../problems/32/prb_32c223ab0a0c42219a6b5e3060483430/) | [Metadata](../problems/32/prb_32c223ab0a0c42219a6b5e3060483430/problem.yaml) |
 | [Open Problems in Local Graph Complexity](../problems/00/prb_0093a1e543634326b5cd38feae131385/) | [Metadata](../problems/00/prb_0093a1e543634326b5cd38feae131385/problem.yaml) |
 | [Constraint-Satisfaction Table Caption](../problems/09/prb_09d3fb0197ae41e18747f4e7c25cccb3/) | [Metadata](../problems/09/prb_09d3fb0197ae41e18747f4e7c25cccb3/problem.yaml) |
@@ -5346,6 +5378,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Known Cases of Iitaka Subadditivity](../problems/1b/prb_1bf24949f1d94acb9205b1a32c3ffb06/) | [Metadata](../problems/1b/prb_1bf24949f1d94acb9205b1a32c3ffb06/problem.yaml) |
 | [Conformal Invariance of Interacting Long-Range Fermionic Models](../problems/e9/prb_e97923ddf83147ceacf674f638d46f75/) | [Metadata](../problems/e9/prb_e97923ddf83147ceacf674f638d46f75/problem.yaml) |
 | [Euclidean Extension of Hierarchical Susceptibility Asymptotics](../problems/9d/prb_9d061ac58b1d41498d3d2a58b40f0815/) | [Metadata](../problems/9d/prb_9d061ac58b1d41498d3d2a58b40f0815/problem.yaml) |
+| [Explicit Connes-Embedding Counterexamples and Nonhyperlinear Groups](../problems/9c/prb_9c5f9516b5734a64b87cb054d88aef30/) | [Metadata](../problems/9c/prb_9c5f9516b5734a64b87cb054d88aef30/problem.yaml) |
 | [Singular Free Boundaries in the Critical Dimension](../problems/eb/prb_ebcb9a064e0d481ab5324d66923cc0b1/) | [Metadata](../problems/eb/prb_ebcb9a064e0d481ab5324d66923cc0b1/problem.yaml) |
 | [Norm Estimation from Asymmetric Black-Box Linear Operators](../problems/35/prb_3573d1c0ec7643629552567cef32ba3b/) | [Metadata](../problems/35/prb_3573d1c0ec7643629552567cef32ba3b/problem.yaml) |
 | [Universal Approximation by One-Lipschitz Spline Networks](../problems/ca/prb_ca6a16f54fa6445c9388a82e4b692f32/) | [Metadata](../problems/ca/prb_ca6a16f54fa6445c9388a82e4b692f32/problem.yaml) |
@@ -5357,6 +5390,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Cancellation-Sensitive Norms for Two-Layer Networks](../problems/63/prb_6336f0434dae47f2bc9bea3c6bbe03e9/) | [Metadata](../problems/63/prb_6336f0434dae47f2bc9bea3c6bbe03e9/problem.yaml) |
 | [Density Hypothesis for Riemann-Zeta Zeros](../problems/d0/prb_d04cdc030fcd41708b386c6b36d60951/) | [Metadata](../problems/d0/prb_d04cdc030fcd41708b386c6b36d60951/problem.yaml) |
 | [Zilber’s Quasiminimality Conjecture for Complex Exponentiation](../problems/c0/prb_c006af59f25b46f199abba40e3e72f31/) | [Metadata](../problems/c0/prb_c006af59f25b46f199abba40e3e72f31/problem.yaml) |
+| [Categoricity of the Complex Exponential Field](../problems/2a/prb_2a63362188bc4c10afd553bf1896619b/) | [Metadata](../problems/2a/prb_2a63362188bc4c10afd553bf1896619b/problem.yaml) |
 | [Exponential-Algebraic Closedness](../problems/9c/prb_9c3adf15e82b4727812a835c931f38b4/) | [Metadata](../problems/9c/prb_9c3adf15e82b4727812a835c931f38b4/problem.yaml) |
 | [Unique Genome Reconstruction from Seven Beads](../problems/d7/prb_d7afaf723d6f42bcb5d81b30ee0c8146/) | [Metadata](../problems/d7/prb_d7afaf723d6f42bcb5d81b30ee0c8146/problem.yaml) |
 | [Enumeration and Sparsity of Growing-$k$ SAT Functions](../problems/15/prb_15625fc47c32401c8dd22b641fd33fa3/) | [Metadata](../problems/15/prb_15625fc47c32401c8dd22b641fd33fa3/problem.yaml) |
@@ -5372,6 +5406,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Mathematical Conjecture Generation with Machine Intelligence](../problems/e4/prb_e40f23e90c9e4b6c8be3b14a5e20fa1d/) | [Metadata](../problems/e4/prb_e40f23e90c9e4b6c8be3b14a5e20fa1d/problem.yaml) |
 | [Instance-Independent Drivers in Quantum Annealing](../problems/d8/prb_d830bdafe83e4e1d91abc8e9c93b813d/) | [Metadata](../problems/d8/prb_d830bdafe83e4e1d91abc8e9c93b813d/problem.yaml) |
 | [Interoperable Virtual Laboratories for Scientific Simulation](../problems/95/prb_95bb502b2fea4289b5bf97ccb837a981/) | [Metadata](../problems/95/prb_95bb502b2fea4289b5bf97ccb837a981/problem.yaml) |
+| [Vanishing Conjectures for Birational Cohomology of Projective Space](../problems/dd/prb_dd2ef6a18e224f4ea881a91510583e27/) | [Metadata](../problems/dd/prb_dd2ef6a18e224f4ea881a91510583e27/problem.yaml) |
 | [Rigorous Mesoscopic Limits of Many-Particle Systems](../problems/ca/prb_ca30fed16b4947e881e75fb67741ee19/) | [Metadata](../problems/ca/prb_ca30fed16b4947e881e75fb67741ee19/problem.yaml) |
 | [Fluctuation Limits for Moderately Interacting Particle Systems](../problems/15/prb_15cbf8cee3a94d648cc5c0f2258d1394/) | [Metadata](../problems/15/prb_15cbf8cee3a94d648cc5c0f2258d1394/problem.yaml) |
 | [Continuation of Nordheim Condensation Beyond Dirac-Mass Formation](../problems/cb/prb_cbe81bb4afac48929dfd6c7821dcab58/) | [Metadata](../problems/cb/prb_cbe81bb4afac48929dfd6c7821dcab58/problem.yaml) |
@@ -5440,6 +5475,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Entrainment-Mediated Tropical-Cyclone Intensification](../problems/23/prb_23212021eeb444ec8f3b63a472ed5847/) | [Metadata](../problems/23/prb_23212021eeb444ec8f3b63a472ed5847/problem.yaml) |
 | [Cloud-Organization Limit Cycles](../problems/a4/prb_a4775b4d7bad4e29944dd8cc57ab27fc/) | [Metadata](../problems/a4/prb_a4775b4d7bad4e29944dd8cc57ab27fc/problem.yaml) |
 | [Rigidity of Stable One-Phase Solutions](../problems/e9/prb_e9eee96026de415db25a5f14523846d3/) | [Metadata](../problems/e9/prb_e9eee96026de415db25a5f14523846d3/problem.yaml) |
+| [Fargues-Scholze Categorical Local Langlands Equivalence](../problems/05/prb_052c7da1b80a4dc993e3c880d43c9166/) | [Metadata](../problems/05/prb_052c7da1b80a4dc993e3c880d43c9166/problem.yaml) |
 | [Global Dynamics of the Vlasov–Maxwell System](../problems/26/prb_2640b55d8fcb478c85d2d9073554c31c/) | [Metadata](../problems/26/prb_2640b55d8fcb478c85d2d9073554c31c/problem.yaml) |
 | [Dynamics Near Generic Spacetime Singularities](../problems/fd/prb_fd23a2821340438e80a11a3485b667b5/) | [Metadata](../problems/fd/prb_fd23a2821340438e80a11a3485b667b5/problem.yaml) |
 | [Uniqueness of Spherical Schwarzschild–Anti-de Sitter Spacetimes](../problems/02/prb_02e7a3459d7a4c06bc350b5d59ebce7d/) | [Metadata](../problems/02/prb_02e7a3459d7a4c06bc350b5d59ebce7d/problem.yaml) |
@@ -5504,6 +5540,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Ensemble Necessity in Data Assimilation](../problems/6c/prb_6c005e3d16144c7bb38a2c0851897aa1/) | [Metadata](../problems/6c/prb_6c005e3d16144c7bb38a2c0851897aa1/problem.yaml) |
 | [Joint Design of Bridging Schedules and Transport Maps](../problems/2a/prb_2a9c8831a6f1409792b7279ef681d255/) | [Metadata](../problems/2a/prb_2a9c8831a6f1409792b7279ef681d255/problem.yaml) |
 | [Efficient Optimization of Neural-Network Weights](../problems/fc/prb_fc4a128a98ec40b69482df76b5c2aff0/) | [Metadata](../problems/fc/prb_fc4a128a98ec40b69482df76b5c2aff0/problem.yaml) |
+| [Dual Hamiltonian Geometry of Equivariant Sheaf Categories](../problems/d3/prb_d34e44ec04d24aab8e07e714e4834c85/) | [Metadata](../problems/d3/prb_d34e44ec04d24aab8e07e714e4834c85/problem.yaml) |
 | [Freeness of Two-Generator Integral Matrix Groups](../problems/79/prb_7941e628a6d94607b9eeca6852344f8b/) | [Metadata](../problems/79/prb_7941e628a6d94607b9eeca6852344f8b/problem.yaml) |
 | [Reflection-Positive Two-Dimensional Quantum Field Theories with Boundary](../problems/ad/prb_ad9eb0a84c1c4f168af44ddea845b26b/) | [Metadata](../problems/ad/prb_ad9eb0a84c1c4f168af44ddea845b26b/problem.yaml) |
 | [Superselection Sectors of Braided Fusion Spin Systems](../problems/01/prb_0102487962b74d04bca80e448a905ee5/) | [Metadata](../problems/01/prb_0102487962b74d04bca80e448a905ee5/problem.yaml) |
@@ -5538,6 +5575,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [Semidefinite Relaxations for Quantum Equilibria](../problems/39/prb_398c7dcc7f9c478a915f4f119efb542e/) | [Metadata](../problems/39/prb_398c7dcc7f9c478a915f4f119efb542e/problem.yaml) |
 | [Kakeya Conjecture in Dimensions Four and Higher](../problems/d4/prb_d43db82b7b6345ee81b31cbe02e55280/) | [Metadata](../problems/d4/prb_d43db82b7b6345ee81b31cbe02e55280/problem.yaml) |
 | [Higher-dimensional Kakeya conjecture](../problems/ff/prb_ff8012cfb8c44f9fa55778cab75b5e92/) | [Metadata](../problems/ff/prb_ff8012cfb8c44f9fa55778cab75b5e92/problem.yaml) |
+| [Algebraic Effective-Period Complex Conjecture](../problems/4a/prb_4a9ba0edd1ee47faac390bbcb5ecd5fc/) | [Metadata](../problems/4a/prb_4a9ba0edd1ee47faac390bbcb5ecd5fc/problem.yaml) |
+| [Adic Effective-Period Complex Conjecture](../problems/39/prb_39838c78b5d9481fb565c7709a2e2c50/) | [Metadata](../problems/39/prb_39838c78b5d9481fb565c7709a2e2c50/problem.yaml) |
 | [Median Actions and Residual Finiteness for Hyperbolic Groups with Sphere Boundary](../problems/ad/prb_ad50a167449742faa72a4c7c2adcae9a/) | [Metadata](../problems/ad/prb_ad50a167449742faa72a4c7c2adcae9a/problem.yaml) |
 | [Universal-Cover Isomorphism Algorithms for Cube Complexes](../problems/a9/prb_a96c6314987c4c048b0f0c102b85c8d8/) | [Metadata](../problems/a9/prb_a96c6314987c4c048b0f0c102b85c8d8/problem.yaml) |
 | [Orthogonal Symmetry Conjecture for Rigid Higher Categories](../problems/c0/prb_c01b9e56f5dc4a048b5448d60884d4dd/) | [Metadata](../problems/c0/prb_c01b9e56f5dc4a048b5448d60884d4dd/problem.yaml) |
@@ -7257,6 +7296,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Baker's Dozen — Convex tangent-segment iteration](../problems/c7/prb_c7b6c9cbb35e4c6ab83da67f69686184/) | [Metadata](../problems/c7/prb_c7b6c9cbb35e4c6ab83da67f69686184/problem.yaml) |
 | [Baker's Dozen — A totally skew disc](../problems/b2/prb_b21fb9f1c7e44fe7aa9f06471d4f8f03/) | [Metadata](../problems/b2/prb_b21fb9f1c7e44fe7aa9f06471d4f8f03/problem.yaml) |
 | [Hilbert's 6th Problem: Axiomatization of Physics](../problems/05/prb_0566d056476f4cfd877dbb86481a960e/) | [Metadata](../problems/05/prb_0566d056476f4cfd877dbb86481a960e/problem.yaml) |
+| [Boundaries of Groups and Kleinian Groups — Problem 1](../problems/c6/prb_c6ade9fa815b4ff480e9a10cfe341caa/) | [Metadata](../problems/c6/prb_c6ade9fa815b4ff480e9a10cfe341caa/problem.yaml) |
 | [Boundaries of Groups and Kleinian Groups — Problem 3](../problems/b3/prb_b31907b81a4645389efdbd12428d797e/) | [Metadata](../problems/b3/prb_b31907b81a4645389efdbd12428d797e/problem.yaml) |
 | [Boundaries of Groups and Kleinian Groups — Problem 6](../problems/43/prb_4316b11d7fbb42b9bf1e6032d584207d/) | [Metadata](../problems/43/prb_4316b11d7fbb42b9bf1e6032d584207d/problem.yaml) |
 | [Boundaries of Groups and Kleinian Groups — Problem 8](../problems/e2/prb_e270e41082e24a1db2c2e53c3e48cd61/) | [Metadata](../problems/e2/prb_e270e41082e24a1db2c2e53c3e48cd61/problem.yaml) |
@@ -7281,6 +7321,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [Boundaries of Groups and Kleinian Groups — Problem 67](../problems/21/prb_2161189b3a654808b358f4d53fc9e2a6/) | [Metadata](../problems/21/prb_2161189b3a654808b358f4d53fc9e2a6/problem.yaml) |
 | [Boundaries of Groups and Kleinian Groups — Problem 102](../problems/5d/prb_5d3ae3e7625e46e8bed051dc38329d81/) | [Metadata](../problems/5d/prb_5d3ae3e7625e46e8bed051dc38329d81/problem.yaml) |
 | [Smale's 12th Problem: Centralizers of Diffeomorphisms](../problems/f6/prb_f6461378821445cd870bf1ffc04b27ee/) | [Metadata](../problems/f6/prb_f6461378821445cd870bf1ffc04b27ee/problem.yaml) |
+| [Topology of Compact Manifolds with Holonomy G2](../problems/99/prb_99c63c7eb8f74d729f28d4accb4f9c30/) | [Metadata](../problems/99/prb_99c63c7eb8f74d729f28d4accb4f9c30/problem.yaml) |
+| [Compactness for Calibrated Submanifolds](../problems/d6/prb_d6c2164cc1ef41e8b80d46b2eac3d0af/) | [Metadata](../problems/d6/prb_d6c2164cc1ef41e8b80d46b2eac3d0af/problem.yaml) |
 | [Singularities of Time-Optimal Trajectories](../problems/44/prb_4445f51b87d840228f82de593aa1770a/) | [Metadata](../problems/44/prb_4445f51b87d840228f82de593aa1770a/problem.yaml) |
 | [Cutting Corners in Sub-Riemannian Spaces](../problems/16/prb_16e76367a2874f769c5f129999d28fce/) | [Metadata](../problems/16/prb_16e76367a2874f769c5f129999d28fce/problem.yaml) |
 | [Morse-Sard Questions for Endpoint Maps](../problems/b6/prb_b658518209414eb398845093cca7aad5/) | [Metadata](../problems/b6/prb_b658518209414eb398845093cca7aad5/problem.yaml) |
@@ -7303,13 +7345,18 @@ Generated index of public research records. Current field ranks are shown on the
 | [L. Sadun — Problem](../problems/48/prb_4839e4efd221455db361b9367c40ff4c/) | [Metadata](../problems/48/prb_4839e4efd221455db361b9367c40ff4c/problem.yaml) |
 | [J. Marklof](../problems/dc/prb_dc30583da3b5440983eaaa0c39e344ca/) | [Metadata](../problems/dc/prb_dc30583da3b5440983eaaa0c39e344ca/problem.yaml) |
 | [B. Weiss — Problem](../problems/38/prb_38c4e3f2bbb64dc09974ffb6178334e8/) | [Metadata](../problems/38/prb_38c4e3f2bbb64dc09974ffb6178334e8/problem.yaml) |
+| [Scalar Curvature Question [?1]: ○What arepossible topologiesof manifolds whichadmit Riemannin metrics with scalar curvaturesSc > 0](../problems/48/prb_48515005bf9a402283d31a773853eb96/) | [Metadata](../problems/48/prb_48515005bf9a402283d31a773853eb96/problem.yaml) |
+| [Scalar Curvature Question [?2]: ○What are topologies ofspaces of metricsg with Sc(g)>0](../problems/87/prb_87ac18da58484182931312af618d2cc9/) | [Metadata](../problems/87/prb_87ac18da58484182931312af618d2cc9/problem.yaml) |
 | [Scalar Curvature Question [?7]: But deeper structures (if they exist at all) that lie at the roots of Dirac operators and of minimal hypersurf](../problems/82/prb_82095bf3bbe94d99b8bac138fbe3531d/) | [Metadata](../problems/82/prb_82095bf3bbe94d99b8bac138fbe3531d/problem.yaml) |
+| [Scalar Curvature Question [?8]: Find a useful local geometric definition of a scalar-curvature lower bound $\operatorname{Sc}\geq\sigma$ that](../problems/76/prb_76d800423b864a08b988abd08a35d155/) | [Metadata](../problems/76/prb_76d800423b864a08b988abd08a35d155/problem.yaml) |
 | [Scalar Curvature Question [?9]: Identify the most general classes of geometric objects having properties analogous to those of $C^2$ Riemannia](../problems/1d/prb_1da259454f114f5b8e6251af5700e8f2/) | [Metadata](../problems/1d/prb_1da259454f114f5b8e6251af5700e8f2/problem.yaml) |
 | [Scalar Curvature Question [?12]: Q-Non-Essentiality of Manifolds with Sc > 0](../problems/23/prb_23111ff13a794aa2b81982f926831bc0/) | [Metadata](../problems/23/prb_23111ff13a794aa2b81982f926831bc0/problem.yaml) |
 | [Scalar Curvature Question [?13]: [∗] no closed aspherical15 manifold admits a metric withSc > 0](../problems/8e/prb_8e9c879e4cf74e33b5b0290285398591/) | [Metadata](../problems/8e/prb_8e9c879e4cf74e33b5b0290285398591/problem.yaml) |
 | [Scalar Curvature Question [?34]: Bounds on Width and on the Macroscopic Dimension](../problems/09/prb_09ee33349b0b4d65b836e555a074b8ed/) | [Metadata](../problems/09/prb_09ee33349b0b4d65b836e555a074b8ed/problem.yaml) |
 | [Scalar Curvature Question [?35]: Bound on the Filling Radius forSc ≥σ > 0](../problems/72/prb_723b6e70ab7e4bb699168f94d8eaf177/) | [Metadata](../problems/72/prb_723b6e70ab7e4bb699168f94d8eaf177/problem.yaml) |
+| [Scalar Curvature Question [?38]: Asphericity⇒K-Area =∞](../problems/82/prb_82dc72f56cea42fb86fd12cd2f3a229a/) | [Metadata](../problems/82/prb_82dc72f56cea42fb86fd12cd2f3a229a/problem.yaml) |
 | [Scalar Curvature Question [?46]: But it is unclear if this remain true with "area" in place of "length"](../problems/66/prb_6664bb59aa4145b78cd3fde6420533d2/) | [Metadata](../problems/66/prb_6664bb59aa4145b78cd3fde6420533d2/problem.yaml) |
+| [Scalar Curvature Question [?50]: All of the above is satisﬁed, modulo constants, for alln-manifolds, possibly incomplete and/or with boundaries](../problems/31/prb_31ba59e7d74242908195a6e3a529c4c0/) | [Metadata](../problems/31/prb_31ba59e7d74242908195a6e3a529c4c0/problem.yaml) |
 | [Scalar Curvature Question [?64]: Are all extremal convex polyhedraP are mean convexly extremal](../problems/89/prb_892681e887d84b3c8aa4e6263c388457/) | [Metadata](../problems/89/prb_892681e887d84b3c8aa4e6263c388457/problem.yaml) |
 | [Scalar Curvature Question [?66]: Probably, these equalities imply thatP is isometric to a Euclidean rectangular solidbut the approximation/smoo](../problems/49/prb_499da5db72d242158f9784b482e963b1/) | [Metadata](../problems/49/prb_499da5db72d242158f9784b482e963b1/problem.yaml) |
 | [Scalar Curvature Question [?68]: Let $\widetilde X$ be the universal cover of a Riemannian $n$-manifold $X$ homeomorphic to the $n$-torus](../problems/e4/prb_e44a62afda174ea58187623ad8cbab5b/) | [Metadata](../problems/e4/prb_e44a62afda174ea58187623ad8cbab5b/problem.yaml) |
@@ -7337,6 +7384,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [Geometry of Curves and Surfaces — Problem 6.3](../problems/86/prb_86ab23ad5a7e47c48f5ca23a8e9c1a23/) | [Metadata](../problems/86/prb_86ab23ad5a7e47c48f5ca23a8e9c1a23/problem.yaml) |
 | [Complete negatively curved surfaces embedded in a ball](../problems/31/prb_31cb6a14259e4d62a910abb2cf506aa8/) | [Metadata](../problems/31/prb_31cb6a14259e4d62a910abb2cf506aa8/problem.yaml) |
 | [Geometry of Curves and Surfaces — Problem 8.2](../problems/a7/prb_a7759714a0214511b1cce6fc416bdc4f/) | [Metadata](../problems/a7/prb_a7759714a0214511b1cce6fc416bdc4f/problem.yaml) |
+| [Element orders in locally finite products of prime-power subgroups](../problems/03/prb_036cbde7120546d493b4d6cedd5a0e79/) | [Metadata](../problems/03/prb_036cbde7120546d493b4d6cedd5a0e79/problem.yaml) |
+| [Multiplicative groups of braces with finitely generated addition](../problems/1b/prb_1b80b05214094edba94ee98ee0e0dae6/) | [Metadata](../problems/1b/prb_1b80b05214094edba94ee98ee0e0dae6/problem.yaml) |
 | [Mathematics of Quantum Computing](../problems/74/prb_74d196362044441180872199d990e8e6/) | [Metadata](../problems/74/prb_74d196362044441180872199d990e8e6/problem.yaml) |
 | [Game Theory at Scale](../problems/80/prb_808b51c17c8f4aefa1d40b4cf7d4d020/) | [Metadata](../problems/80/prb_808b51c17c8f4aefa1d40b4cf7d4d020/problem.yaml) |
 | [Bass conjecture](../problems/25/prb_252fc556f37445e690b10386d8b41145/) | [Metadata](../problems/25/prb_252fc556f37445e690b10386d8b41145/problem.yaml) |
@@ -7350,6 +7399,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Wikipedia geometry item 17: Section conjecture on splittings of group homomorphisms from fundamental groups of complete smo…](../problems/b9/prb_b94e17635f944672af9f5a169e32d609/) | [Metadata](../problems/b9/prb_b94e17635f944672af9f5a169e32d609/problem.yaml) |
 | [Virasoro conjecture](../problems/19/prb_1908ffc7f39e4dc9b259a2d408393213/) | [Metadata](../problems/19/prb_1908ffc7f39e4dc9b259a2d408393213/problem.yaml) |
 | [Zariski multiplicity conjecture on the topological equisingularity and equimultiplicity of varieties at singular points](../problems/1b/prb_1b094f9fb9f14c248730f515429a601c/) | [Metadata](../problems/1b/prb_1b094f9fb9f14c248730f515429a601c/problem.yaml) |
+| [Prove resolution of singularities for algebraic varieties over fields of positive characteristic in arbitrary dimension](../problems/5f/prb_5fbfe8fc15db40168b68aec09a3a8727/) | [Metadata](../problems/5f/prb_5fbfe8fc15db40168b68aec09a3a8727/problem.yaml) |
 | [The covering problem of Rado](../problems/be/prb_be97d627f64443d8bd52ac7700647070/) | [Metadata](../problems/be/prb_be97d627f64443d8bd52ac7700647070/problem.yaml) |
 | [The Erdős–Oler conjecture](../problems/3f/prb_3f7005e070ee4d55a8be0987df5c4c34/) | [Metadata](../problems/3f/prb_3f7005e070ee4d55a8be0987df5c4c34/problem.yaml) |
 | [Reinhardt's conjecture](../problems/8c/prb_8c45aac2bb9f4bb8bb40a730fda7e233/) | [Metadata](../problems/8c/prb_8c45aac2bb9f4bb8bb40a730fda7e233/problem.yaml) |
@@ -7371,6 +7421,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Fundamental Laws of Biology](../problems/45/prb_451efe9643424ba6b0826d63a5c4f1fd/) | [Metadata](../problems/45/prb_451efe9643424ba6b0826d63a5c4f1fd/problem.yaml) |
 | [Automorphism Problem for the Turing Degrees](../problems/b1/prb_b1a8a5ae0b7c4fe69644bf0641aee996/) | [Metadata](../problems/b1/prb_b1a8a5ae0b7c4fe69644bf0641aee996/problem.yaml) |
 | [Finite Spectrum Problem](../problems/3d/prb_3dab166563fc4333b260652fd5d6cf58/) | [Metadata](../problems/3d/prb_3dab166563fc4333b260652fd5d6cf58/problem.yaml) |
+| [Friedman–Simpson Interpretability Conjecture](../problems/62/prb_6204184b2b8447c2a0853af83a8c806b/) | [Metadata](../problems/62/prb_6204184b2b8447c2a0853af83a8c806b/problem.yaml) |
 | [Increasing Polarized Ramsey Theorem](../problems/82/prb_82ed9feae90b4630a7125d13262705cb/) | [Metadata](../problems/82/prb_82ed9feae90b4630a7125d13262705cb/problem.yaml) |
 | [Reverse-Mathematical Strength of Hindman's Theorem](../problems/ce/prb_ced6584f01424ddfafef344534e747b8/) | [Metadata](../problems/ce/prb_ced6584f01424ddfafef344534e747b8/problem.yaml) |
 | [Strength of the Dual Ramsey Theorem](../problems/69/prb_699dcfed3e824e5d816f1d3b10ea2db6/) | [Metadata](../problems/69/prb_699dcfed3e824e5d816f1d3b10ea2db6/problem.yaml) |
@@ -7391,10 +7442,12 @@ Generated index of public research records. Current field ranks are shown on the
 | [Strength of Kříž's Labeled-Tree Theorem](../problems/3c/prb_3cdd5dd62e0f4b23a234da65f7285c44/) | [Metadata](../problems/3c/prb_3cdd5dd62e0f4b23a234da65f7285c44/problem.yaml) |
 | [Ramsey's Theorem for Triples over a Weak Base](../problems/33/prb_33a6de3b3c1848369142364f4612302f/) | [Metadata](../problems/33/prb_33a6de3b3c1848369142364f4612302f/problem.yaml) |
 | [Computational Duality](../problems/35/prb_35f411feff774f068343e2323e6a89b1/) | [Metadata](../problems/35/prb_35f411feff774f068343e2323e6a89b1/problem.yaml) |
+| [The main gap conjecture, e.g. for uncountable first order theories, for AECs, and for $\aleph_1$-saturated models of a countable theory](../problems/2e/prb_2e64ca3630ed4cc7859abc1e382b3f3f/) | [Metadata](../problems/2e/prb_2e64ca3630ed4cc7859abc1e382b3f3f/problem.yaml) |
 | [Shelah's categoricity conjecture for $L_{\omega_1,\omega}$](../problems/7b/prb_7bfdd200e4b14abda3c448f8c27595e4/) | [Metadata](../problems/7b/prb_7bfdd200e4b14abda3c448f8c27595e4/problem.yaml) |
 | [Shelah's eventual categoricity conjecture](../problems/cc/prb_cc22b43cd72b4f7f9068b3323b2575f7/) | [Metadata](../problems/cc/prb_cc22b43cd72b4f7f9068b3323b2575f7/problem.yaml) |
 | [Does every simple first-order theory have stable forking](../problems/09/prb_09f7d138fbfc4646a3c43cccba472602/) | [Metadata](../problems/09/prb_09f7d138fbfc4646a3c43cccba472602/problem.yaml) |
 | [The universality problem for C-free graphs](../problems/73/prb_73b3cdd420a64666a89b49cd76764320/) | [Metadata](../problems/73/prb_73b3cdd420a64666a89b49cd76764320/problem.yaml) |
+| [Wikipedia model theory and formal languages item 24: What is the nature of the proof-theoretic ordinal (the smallest ordinal a theory cannot prove w…](../problems/7b/prb_7bd80142d91943c39b381a55c079ded3/) | [Metadata](../problems/7b/prb_7bd80142d91943c39b381a55c079ded3/problem.yaml) |
 | [Occam's Razor in Many Dimensions](../problems/80/prb_806b62a616c440049a10d3816652134d/) | [Metadata](../problems/80/prb_806b62a616c440049a10d3816652134d/problem.yaml) |
 | [Soft Phases in Two-Dimensional O(N) Models](../problems/00/prb_00e017da89c04766bba29508be136d38/) | [Metadata](../problems/00/prb_00e017da89c04766bba29508be136d38/problem.yaml) |
 | [Long-Range Order for the Quantum Heisenberg Model](../problems/19/prb_19e6db8ed9fc4dc384d76522edcdbe9c/) | [Metadata](../problems/19/prb_19e6db8ed9fc4dc384d76522edcdbe9c/problem.yaml) |
@@ -7435,6 +7488,8 @@ Generated index of public research records. Current field ranks are shown on the
 | [Commutative semigroups with cancellative endomorphism semigroups](../problems/26/prb_260647d5df65464b80d2ad55b4b65fef/) | [Metadata](../problems/26/prb_260647d5df65464b80d2ad55b4b65fef/problem.yaml) |
 | [Isolated left orders on finitely generated amenable groups](../problems/f5/prb_f56b8f78072047b7984b8cfe5296855c/) | [Metadata](../problems/f5/prb_f56b8f78072047b7984b8cfe5296855c/problem.yaml) |
 | [Explicit preperiodic-point bounds for quadratic rational maps](../problems/a7/prb_a7240a2baaf449d09a09e8b3833b3471/) | [Metadata](../problems/a7/prb_a7240a2baaf449d09a09e8b3833b3471/problem.yaml) |
+| [Open Problems on Central Simple Algebras — Conjecture 27 (BSD Conjecture)](../problems/f1/prb_f1f64dbe9b2543618fda69deb2e9a981/) | [Metadata](../problems/f1/prb_f1f64dbe9b2543618fda69deb2e9a981/problem.yaml) |
+| [Open Problems on Central Simple Algebras — Problem 37](../problems/cc/prb_cc66b55c49714054a930bddf7a336fbd/) | [Metadata](../problems/cc/prb_cc66b55c49714054a930bddf7a336fbd/problem.yaml) |
 | [Ampleness of the maximal abelian extension of the rationals](../problems/cf/prb_cf6dc373398d491c91e4013fc462460b/) | [Metadata](../problems/cf/prb_cf6dc373398d491c91e4013fc462460b/problem.yaml) |
 | [Outer automorphisms of oligomorphic groups in finite languages](../problems/0a/prb_0ad454c0b87d4676b749b05602ae8fe4/) | [Metadata](../problems/0a/prb_0ad454c0b87d4676b749b05602ae8fe4/problem.yaml) |
 | [Hyperfiniteness of increasing unions of Borel equivalence relations](../problems/c3/prb_c30030f2ca6a402ba8eb981eba560183/) | [Metadata](../problems/c3/prb_c30030f2ca6a402ba8eb981eba560183/problem.yaml) |
