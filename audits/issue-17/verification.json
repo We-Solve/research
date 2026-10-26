@@ -1,0 +1,38 @@
+{
+  "status": "all saved certificates and complete weight domains verified",
+  "checker": "Python standard library; direct residual inequalities and blocking constraints",
+  "ratio_search_code_imported": false,
+  "graph_isomorphism_completeness": "provided by the separate exhaustive C++ graph generator",
+  "by_vertices": {
+    "5": {
+      "graphs": 3,
+      "candidates": 107,
+      "feasible": 107,
+      "certified_witnesses": 107
+    },
+    "6": {
+      "graphs": 15,
+      "candidates": 1953,
+      "feasible": 1953,
+      "certified_witnesses": 1953
+    },
+    "7": {
+      "graphs": 114,
+      "candidates": 40941,
+      "feasible": 40237,
+      "certified_witnesses": 40237
+    }
+  },
+  "total": {
+    "graphs": 132,
+    "candidates": 43001,
+    "feasible": 42297,
+    "certified_witnesses": 42297
+  },
+  "coefficient_counts": {
+    "1": 40884,
+    "2": 1410,
+    "3": 3
+  },
+  "runtime_seconds": 3.7550592759998835
+}

@@ -1,0 +1,14 @@
+{
+"status":"all feasible inputs certified",
+"k":5,
+"generator":"all vertex extensions; exact canonicalization over permutations within sorted degree blocks",
+"arithmetic":"integer arithmetic and exact ratio comparisons",
+"assertions_enabled":true,
+"unlabeled_graph_counts":[1,1,2,4,11,34,156,1044],
+"extension_counts":[0,1,2,8,32,176,1088,9984],
+"by_vertices":{"5":{"graphs":3,"candidates":107,"feasible":107,"certified_witnesses":107,"trees_considered":228,"coefficient_counts":{"1":95,"2":12}},"6":{"graphs":15,"candidates":1953,"feasible":1953,"certified_witnesses":1953,"trees_considered":8685,"coefficient_counts":{"1":1838,"2":115}},"7":{"graphs":114,"candidates":40941,"feasible":40237,"certified_witnesses":40237,"trees_considered":506997,"coefficient_counts":{"1":38951,"2":1283,"3":3}}},
+"total":{"graphs":132,"candidates":43001,"feasible":42297,"certified_witnesses":42297,"trees_considered":515910,"coefficient_counts":{"1":40884,"2":1410,"3":3}},
+"generation_seconds":0.0394752,
+"audit_seconds":0.312964,
+"total_seconds":0.35244
+}

@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "bundle_sha256": "bf358e6034106349c697a12c5aef7f0c12271e38e170092c33e08ce1fd4ecaec",
+  "uploaded_code_executed": false,
+  "check": "Separate direct verification of all saved spanning trees, integer coefficients, residual inequalities, blocking constraints, and full weight domains on the supplied graph list. Graph-generator completeness not independently rerun.",
+  "by_vertices": {
+    "5": {
+      "graphs": 3,
+      "candidates": 107,
+      "feasible": 107,
+      "certified_witnesses": 107
+    },
+    "6": {
+      "graphs": 15,
+      "candidates": 1953,
+      "feasible": 1953,
+      "certified_witnesses": 1953
+    },
+    "7": {
+      "graphs": 114,
+      "candidates": 40941,
+      "feasible": 40237,
+      "certified_witnesses": 40237
+    }
+  },
+  "total": {
+    "graphs": 132,
+    "candidates": 43001,
+    "feasible": 42297,
+    "certified_witnesses": 42297
+  },
+  "coefficient_counts": {
+    "2": 1410,
+    "1": 40884,
+    "3": 3
+  }
+}
