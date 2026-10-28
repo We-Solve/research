@@ -339,6 +339,7 @@ Generated index of public research records. Current field ranks are shown on the
 | [Finite-bit uncoupled learning with constant swap regret](../problems/2a/prb_2a3012883e274a1384504ef3c9221892/) | [Metadata](../problems/2a/prb_2a3012883e274a1384504ef3c9221892/problem.yaml) |
 | [Axiomatic containment of Mertens-stable sets without genericity](../problems/34/prb_34ecf5fa262f4a85a0fbe4af9837c46b/) | [Metadata](../problems/34/prb_34ecf5fa262f4a85a0fbe4af9837c46b/problem.yaml) |
 | [Strategic axioms selecting stable sets themselves](../problems/a7/prb_a793fdc7ba9145ad84b1812ac0512eca/) | [Metadata](../problems/a7/prb_a793fdc7ba9145ad84b1812ac0512eca/problem.yaml) |
+| [Osborne's sequential-location conjecture](../problems/93/prb_931f6c2339724ef6b70e5d3705b9c3a8/) | [Metadata](../problems/93/prb_931f6c2339724ef6b70e5d3705b9c3a8/problem.yaml) |
 | [Pre-analysis commitments compatible with adaptive experimentation](../problems/fe/prb_fed06dc1649f4ddc9d55e33ddafb92df/) | [Metadata](../problems/fe/prb_fed06dc1649f4ddc9d55e33ddafb92df/problem.yaml) |
 | [Multiplicity and power in adaptive platform trials](../problems/25/prb_2596c40826964b68a61ab959feb0ffb5/) | [Metadata](../problems/25/prb_2596c40826964b68a61ab959feb0ffb5/problem.yaml) |
 | [Confidence sequences for adaptively evolving causal targets](../problems/09/prb_09b088d7510547b8936ae2b53776cc4d/) | [Metadata](../problems/09/prb_09b088d7510547b8936ae2b53776cc4d/problem.yaml) |
